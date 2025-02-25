@@ -13,6 +13,8 @@
 
   Zhao Ding, Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
 
+ * [**Characteristic Learning for Provable One Step Generation**](https://arxiv.org/abs/2405.05512v4) [arXiv](https://arxiv.org/abs/2405.05512v4) [code](https://github.com/burning489/CharacteristicGenerator)
  
+   Zhao Ding, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang 
 
 ### Publications
