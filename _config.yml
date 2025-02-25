@@ -37,3 +37,28 @@ defaults:
       type: "publications"
     values:
       layout: "publication"
+
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+scholar:
+  style: apa
+  locale: en
+  sort_by: year,month
+  order: descending
+  source: ./_bibliography
+  bibliography: papers.bib
+  bibliography_template: publication
+  replace_strings: true
+  join_strings: true
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: 
+  query: "@*"
+  group_by: year
+  group_order: descending
+
+  
+    
