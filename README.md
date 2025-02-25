@@ -1,6 +1,6 @@
 # Chenguang Duan
 
-Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](cg.duan@outlook.com)
+**Email**: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](cg.duan@outlook.com)
 
 ## Research
 ---
