@@ -17,7 +17,7 @@
  
    Zhao Ding, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang
 
- * [**On Convergence Rates of Deep Nonparametric Regression under Covariate Shift**]{https://openreview.net/forum?id=WrBxRtGNLH} [link](https://openreview.net/forum?id=WrBxRtGNLH)
+ * [**On Convergence Rates of Deep Nonparametric Regression under Covariate Shift**](https://openreview.net/forum?id=WrBxRtGNLH) [link](https://openreview.net/forum?id=WrBxRtGNLH)
    
    Chenguang Duan, Yuling Jiao, Lican Kang, Xiliang Lu, and Jerry Zhijian Yang
 
