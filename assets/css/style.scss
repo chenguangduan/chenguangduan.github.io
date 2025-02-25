@@ -1,0 +1,28 @@
+@import "{{ site.theme }}";
+
+.wrapper {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+section {
+  width: 75%;
+  float: right;
+}
+
+header {
+  width: 20%;
+}
+
+@media print, screen and (max-width: 960px) {
+  div.wrapper {
+    width: auto;
+    margin: 0;
+  }
+  
+  header, section {
+    float: none;
+    width: auto;
+  }
+}
