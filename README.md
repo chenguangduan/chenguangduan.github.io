@@ -6,7 +6,7 @@ My research interests lie at the intersection of computational mathematics, stat
 
 Here is my [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ) page.
 
-**Email**: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](cg.duan@outlook.com)
+Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](cg.duan@outlook.com)
 
 ## Research interests
 ---
