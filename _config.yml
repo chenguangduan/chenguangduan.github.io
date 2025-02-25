@@ -2,6 +2,12 @@ theme: jekyll-theme-minimal
 title: Chenguang Duan
 description: 
 
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+
 social_links: 
   github: https://github.com/chenguangduan
   email: cgduan.math@whu.edu.cn
+
+
