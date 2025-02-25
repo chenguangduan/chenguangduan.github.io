@@ -6,8 +6,11 @@
 ---
 
 * Statistical learning and deep learning theory
+  
 * Generative models and sampling
+  
 * Machine learning for scientific computing
+  
 * Inverse problems and uncertainty quantification
 
 ## Research
