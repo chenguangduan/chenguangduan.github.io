@@ -1,5 +1,11 @@
 # Chenguang Duan
 
+I am currently a Ph.D. candidate in the School of Mathematics and Statistics at Wuhan University, working under the guidance of Prof. Jerry Zhijian Yang and Prof. Yuling Jiao. I completed my Bachelor's degree in mathematics at Wuhan University as well.
+
+My research interests lie at the intersection of computational mathematics, statistics, and machine learning, with a particular focus on learning theory and scientific machine learning.
+
+Here is my [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ) page.
+
 **Email**: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](cg.duan@outlook.com)
 
 ## Research interests
