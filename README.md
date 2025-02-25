@@ -4,7 +4,7 @@
 
 ### Ongoing Work
 
-* <span class="green-text"> **Nonlinear Assimilation with Score-based Sequential Langevin Sampling** </span>
+* **Nonlinear Assimilation with Score-based Sequential Langevin Sampling**
 
   Zhao Ding, Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang.
 
