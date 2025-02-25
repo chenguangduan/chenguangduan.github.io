@@ -26,6 +26,6 @@
 
 * [**Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network**](https://ieeexplore.ieee.org/document/10858754) [link](https://ieeexplore.ieee.org/document/10858754)
 
-  *IEEE Transactions on Information Theory*
-
   Zhao Ding, Chenguang Duan, Yuling Jiao, and Jerry Zhijian Yang
+
+  *IEEE Transactions on Information Theory*
