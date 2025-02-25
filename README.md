@@ -2,8 +2,13 @@
 
 **Email**: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](cg.duan@outlook.com)
 
-## Research
+## Research interests
 ---
+
+* Statistical learning and deep learning theory
+* Generative models and sampling
+* Machine learning for scientific computing
+* Inverse problems and uncertainty quantification
 
 ## Research
 ---
@@ -12,7 +17,7 @@
 
 (Alphabetical order)
 
-### Ongoing Work
+### Ongoing work
 
 * [**Nonlinear Assimilation with Score-based Sequential Langevin Sampling**](https://arxiv.org/abs/2411.13443v2)
   [arXiv](https://arxiv.org/abs/2411.13443v2) [code](https://github.com/burning489/SSLS)
