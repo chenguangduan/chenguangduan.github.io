@@ -4,3 +4,19 @@ description:
 
 social_links: 
   email: cgduan.math@whu.edu.cn, cg.duan@outlook.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - README.md
+  - LICENSE
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-scholar
