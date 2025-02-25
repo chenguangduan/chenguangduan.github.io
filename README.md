@@ -28,4 +28,4 @@
 
   Zhao Ding, Chenguang Duan, Yuling Jiao, and Jerry Zhijian Yang
 
-  *IEEE Transactions on Information Theory*
+  *IEEE Transactions on Information Theory* (2025)
