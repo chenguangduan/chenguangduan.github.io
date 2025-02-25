@@ -14,14 +14,18 @@
 
   Zhao Ding, <span class="black-text">Chenguang Duan</span>, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
 
- * [**Characteristic Learning for Provable One Step Generation**](https://arxiv.org/abs/2405.05512v4) [arXiv](https://arxiv.org/abs/2405.05512v4) [code](https://github.com/burning489/CharacteristicGenerator)
+* [**Characteristic Learning for Provable One Step Generation**](https://arxiv.org/abs/2405.05512v4) [arXiv](https://arxiv.org/abs/2405.05512v4) [code](https://github.com/burning489/CharacteristicGenerator)
  
    Zhao Ding, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang
 
- * [**On Convergence Rates of Deep Nonparametric Regression under Covariate Shift**](https://openreview.net/forum?id=WrBxRtGNLH) [link](https://openreview.net/forum?id=WrBxRtGNLH)
+* [**On Convergence Rates of Deep Nonparametric Regression under Covariate Shift**](https://openreview.net/forum?id=WrBxRtGNLH) [link](https://openreview.net/forum?id=WrBxRtGNLH)
    
    Chenguang Duan, Yuling Jiao, Lican Kang, Xiliang Lu, and Jerry Zhijian Yang
 
 ### Publications
 
-* aa
+* [Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network](https://ieeexplore.ieee.org/document/10858754) [link](https://ieeexplore.ieee.org/document/10858754)
+
+  *IEEE Transactions on Information Theory*
+
+  Zhao Ding, Chenguang Duan, Yuling Jiao, and Jerry Zhijian Yang
