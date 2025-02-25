@@ -30,6 +30,10 @@ header {
   }
 }
 
+.view a:contains("View My GitHub Profile") {
+  display: none;
+}
+
 .green-text {
   color: #00797c;
 }
