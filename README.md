@@ -1,6 +1,6 @@
 # Chenguang Duan
 
-I am currently a Ph.D. candidate in the School of Mathematics and Statistics at Wuhan University, advised by Prof. Jerry Zhijian Yang and Prof. Yuling Jiao. I completed my Bachelor's degree in mathematics at Wuhan University as well.
+I am currently a Ph.D. candidate in the School of Mathematics and Statistics at Wuhan University, advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm) and Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I completed my Bachelor's degree in mathematics at Wuhan University as well.
 
 My research interests lie at the intersection of computational mathematics, statistics, and machine learning, with a particular focus on learning theory and scientific machine learning.
 
