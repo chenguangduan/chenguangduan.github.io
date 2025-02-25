@@ -15,6 +15,10 @@
 
  * [**Characteristic Learning for Provable One Step Generation**](https://arxiv.org/abs/2405.05512v4) [arXiv](https://arxiv.org/abs/2405.05512v4) [code](https://github.com/burning489/CharacteristicGenerator)
  
-   Zhao Ding, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang 
+   Zhao Ding, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang
+
+ * [**On Convergence Rates of Deep Nonparametric Regression under Covariate Shift**]{https://openreview.net/forum?id=WrBxRtGNLH} [link](https://openreview.net/forum?id=WrBxRtGNLH)
+   
+   Chenguang Duan, Yuling Jiao, Lican Kang, Xiliang Lu, and Jerry Zhijian Yang
 
 ### Publications
