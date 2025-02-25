@@ -1,13 +1,14 @@
 theme: jekyll-theme-minimal
 title: Chenguang Duan
-description: 
+
+github:
+  is_user_page: false
 
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
 
 social_links: 
-  github: https://github.com/chenguangduan
   email: cgduan.math@whu.edu.cn
 
 
