@@ -30,10 +30,6 @@ header {
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #002554; 
-}
-
 .green-text {
   color: #00797c;
 }
@@ -44,23 +40,27 @@ h1, h2, h3, h4, h5, h6 {
 
 html, body {
   font-size: 14px; 
-  line-height: 1.0;
+  line-height: 0.75;
 }
 
 h1 {
   font-size: 24pt;
+  color: #002554; 
 }
 
 h2 {
   font-size: 20pt;
+  color: #002554; 
 }
 
 h3 {
   font-size: 18pt;
+  color: #002554; 
 }
 
 h4, h5, h6 {
   font-size: 14pt;
+  color: #002554; 
 }
 
 header p, header ul {
