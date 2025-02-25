@@ -9,13 +9,20 @@
   margin: 0 auto;
 }
 
-section {
-  width: 75%;
-  float: right;
+header {
+  display: none;
 }
 
-header {
-  width: 20%;
+section {
+  width: 100%;
+  float: none;
+  border-left: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.sidebar, .sidebar-footer {
+  display: none;
 }
 
 @media print, screen and (max-width: 960px) {
