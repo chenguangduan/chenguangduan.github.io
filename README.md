@@ -11,7 +11,7 @@
 * [**Nonlinear Assimilation with Score-based Sequential Langevin Sampling**](https://arxiv.org/abs/2411.13443v2)
   [arXiv](https://arxiv.org/abs/2411.13443v2) [code](https://github.com/burning489/SSLS)
 
-  Zhao Ding, Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
+  Zhao Ding, <span class="black-text">Chenguang Duan</span>, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
 
  * [**Characteristic Learning for Provable One Step Generation**](https://arxiv.org/abs/2405.05512v4) [arXiv](https://arxiv.org/abs/2405.05512v4) [code](https://github.com/burning489/CharacteristicGenerator)
  
