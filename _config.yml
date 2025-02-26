@@ -1,11 +1,5 @@
-theme: jekyll-theme-minimal
 title: Chenguang Duan's Homepage
-email: cgduan.math@whu.edu.cn
+description: Chenguang Duan's Homepage
 
-github:
-  is_user_page: false
-
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
+theme: jekyll-theme-minimal
   
