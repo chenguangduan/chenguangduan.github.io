@@ -49,17 +49,17 @@ Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](c
 
   *IEEE Transactions on Information Theory* (2025)
 
-* [**Current Density Impedance Imaging with PINNs**](https://www.sciencedirect.com/science/article/pii/S0377042724003698) [link](https://www.sciencedirect.com/science/article/pii/S0377042724003698)
-
-  Chenguang Duan, Junjun Huang, Yuling Jiao, Xiliang Lu, and Jerry Zhijian Yang
-
-  *Journal of Computational and Applied Mathematics* (2024)
-
 * [**Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis**](https://journal.global-sci.org/intro/article_detail/eajam/23157.html) [link](https://journal.global-sci.org/intro/article_detail/eajam/23157.html)
 
   Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, and Pingwen Zhang
 
   *East Asian Journal on Applied Mathematics* (2024)
+
+* [**Current Density Impedance Imaging with PINNs**](https://www.sciencedirect.com/science/article/pii/S0377042724003698) [link](https://www.sciencedirect.com/science/article/pii/S0377042724003698)
+
+  Chenguang Duan, Junjun Huang, Yuling Jiao, Xiliang Lu, and Jerry Zhijian Yang
+
+  *Journal of Computational and Applied Mathematics* (2024)
 
 * [**Deep Ritz Methods for Laplace Equations with Dirichlet Boundary Condition**](https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html) [link](https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html)
 
