@@ -26,7 +26,7 @@ Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](c
 
 (Alphabetical order)
 
-### Ongoing work
+#### Ongoing work
 
 * [**Nonlinear Assimilation with Score-based Sequential Langevin Sampling**](docs/Score_based_Sequential_Langevin_Sampling.pdf)
   
@@ -41,11 +41,13 @@ Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](c
 
   [[arXiv]](https://arxiv.org/abs/2405.05512v4) [[PDF]](docs/Characteristic_Learning.pdf) [[code]](https://github.com/burning489/CharacteristicGenerator)
 
-* [**On Convergence Rates of Deep Nonparametric Regression under Covariate Shift**](https://openreview.net/forum?id=WrBxRtGNLH) [link](https://openreview.net/forum?id=WrBxRtGNLH)
+* [**On Convergence Rates of Deep Nonparametric Regression under Covariate Shift**](docs/Convergence_Rate_Covariate_Shift.pdf)
    
    Chenguang Duan, Yuling Jiao, Lican Kang, Xiliang Lu, and Jerry Zhijian Yang
 
-### Publications
+  [[PDF]](docs/Convergence_Rate_Covariate_Shift.pdf) [[link]](https://openreview.net/forum?id=WrBxRtGNLH)
+
+#### Publications
 
 * [**Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network**](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) 
 
@@ -55,27 +57,37 @@ Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](c
 
   [[Journal]](https://ieeexplore.ieee.org/document/10858754) [[arXiv]](https://arxiv.org/abs/2401.04535v2) [[PDF]](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) 
 
-* [**Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis**](https://journal.global-sci.org/intro/article_detail/eajam/23157.html) [link](https://journal.global-sci.org/intro/article_detail/eajam/23157.html)
+* [**Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis**](docs/Inverse_Source_PINNs.pdf)
 
   Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, and Pingwen Zhang
 
   *East Asian Journal on Applied Mathematics* (2024)
 
-* [**Current Density Impedance Imaging with PINNs**](https://www.sciencedirect.com/science/article/pii/S0377042724003698) [link](https://www.sciencedirect.com/science/article/pii/S0377042724003698)
+  [[Journal]](https://journal.global-sci.org/intro/article_detail/eajam/23157.html) [[PDF]](docs/Inverse_Source_PINNs.pdf)
+
+* [**Current Density Impedance Imaging with PINNs**](docs/CDII_PINNs.pdf)
 
   Chenguang Duan, Junjun Huang, Yuling Jiao, Xiliang Lu, and Jerry Zhijian Yang
 
   *Journal of Computational and Applied Mathematics* (2024)
 
-* [**Deep Ritz Methods for Laplace Equations with Dirichlet Boundary Condition**](https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html) [link](https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html)
+  [[Journal]](https://www.sciencedirect.com/science/article/pii/S0377042724003698) [[PDF]](docs/CDII_PINNs.pdf)
+
+* [**Deep Ritz Methods for Laplace Equations with Dirichlet Boundary Condition**](docs/Deep_Ritz_Dirichlet.pdf)
 
   Chenguang Duan, Yuling Jiao, Yanming Lai, Xiliang Lu, Qimeng Quan, and Jerry Zhijian Yang
 
   *CSIAM Transactions on Applied Mathematics* (2022)
 
-* [**Convergence Rate Analysis for Deep Ritz Method**](https://journal.global-sci.org/intro/article_detail.html?journal=undefined&article_id=20375) [link](https://journal.global-sci.org/intro/article_detail.html?journal=undefined&article_id=20375)
+  [[Journal]](https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html) [[arXiv]](https://arxiv.org/abs/2111.02009) [[PDF]](docs/Deep_Ritz_Dirichlet.pdf) 
+
+* [**Convergence Rate Analysis for Deep Ritz Method**](docs/Deep_Ritz.pdf)
 
   Chenguang Duan, Yuling Jiao, Yanming Lai, Dingwei Li, Xiliang Lu, and Jerry Zhijian Yang
 
   *Communications in Computational Physics* (2022).
+
+  [[Journal]](https://journal.global-sci.org/intro/article_detail/cicp/20375.html) [[arXiv]](https://arxiv.org/abs/2103.13330) [[PDF]](docs/Deep_Ritz.pdf)
+
+  
 
