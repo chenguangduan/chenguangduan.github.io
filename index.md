@@ -43,11 +43,13 @@ Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](c
 
 ### Publications
 
-* [**Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network**](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) [link](https://ieeexplore.ieee.org/document/10858754)
+* [**Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network**](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) 
 
   Zhao Ding, Chenguang Duan, Yuling Jiao, and Jerry Zhijian Yang
 
   *IEEE Transactions on Information Theory* (2025)
+
+  [journal](https://ieeexplore.ieee.org/document/10858754)
 
 * [**Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis**](https://journal.global-sci.org/intro/article_detail/eajam/23157.html) [link](https://journal.global-sci.org/intro/article_detail/eajam/23157.html)
 
