@@ -28,14 +28,18 @@ Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](c
 
 ### Ongoing work
 
-* [**Nonlinear Assimilation with Score-based Sequential Langevin Sampling**](https://arxiv.org/abs/2411.13443v2)
-  [arXiv](https://arxiv.org/abs/2411.13443v2) [code](https://github.com/burning489/SSLS)
+* [**Nonlinear Assimilation with Score-based Sequential Langevin Sampling**](docs/Score_based_Sequential_Langevin_Sampling.pdf)
+  
 
   Zhao Ding, Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
 
-* [**Characteristic Learning for Provable One Step Generation**](https://arxiv.org/abs/2405.05512v4) [arXiv](https://arxiv.org/abs/2405.05512v4) [code](https://github.com/burning489/CharacteristicGenerator)
+  [[arXiv]](https://arxiv.org/abs/2411.13443v2) [[PDF]](docs/Score_based_Sequential_Langevin_Sampling.pdf) [[Code]](https://github.com/burning489/SSLS)
+
+* [**Characteristic Learning for Provable One Step Generation**](https://arxiv.org/abs/2405.05512v4) 
  
    Zhao Ding, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang
+
+  [[arXiv]](https://arxiv.org/abs/2405.05512v4) [[PDF]](docs/Characteristic_Learning.pdf) [[Code]](https://github.com/burning489/CharacteristicGenerator)
 
 * [**On Convergence Rates of Deep Nonparametric Regression under Covariate Shift**](https://openreview.net/forum?id=WrBxRtGNLH) [link](https://openreview.net/forum?id=WrBxRtGNLH)
    
@@ -49,7 +53,7 @@ Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](c
 
   *IEEE Transactions on Information Theory* (2025)
 
-  [[Journal]](https://ieeexplore.ieee.org/document/10858754) [[arXiv]](https://arxiv.org/abs/2401.04535) [[PDF]](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) 
+  [[Journal]](https://ieeexplore.ieee.org/document/10858754) [[arXiv]](https://arxiv.org/abs/2401.04535v2) [[PDF]](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) 
 
 * [**Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis**](https://journal.global-sci.org/intro/article_detail/eajam/23157.html) [link](https://journal.global-sci.org/intro/article_detail/eajam/23157.html)
 
