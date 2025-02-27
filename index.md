@@ -43,7 +43,7 @@ Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](c
 
 ### Publications
 
-* [**Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network**](https://ieeexplore.ieee.org/document/10858754) [link](https://ieeexplore.ieee.org/document/10858754)
+* [**Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network**](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) [link](https://ieeexplore.ieee.org/document/10858754)
 
   Zhao Ding, Chenguang Duan, Yuling Jiao, and Jerry Zhijian Yang
 
