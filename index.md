@@ -71,7 +71,7 @@ Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](c
 
   *Journal of Computational and Applied Mathematics* (2024)
 
-  [[Journal]](https://www.sciencedirect.com/science/article/pii/S0377042724003698) [[PDF]](docs/CDII_PINNs.pdf)
+  [[Journal]](https://www.sciencedirect.com/science/article/pii/S0377042724003698) [[arXiv]](https://arxiv.org/abs/2306.13881) [[PDF]](docs/CDII_PINNs.pdf)
 
 * [**Deep Ritz Methods for Laplace Equations with Dirichlet Boundary Condition**](docs/Deep_Ritz_Dirichlet.pdf)
 
