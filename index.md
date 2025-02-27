@@ -49,7 +49,7 @@ Email: [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn), [cg.duan@outlook.com](c
 
   *IEEE Transactions on Information Theory* (2025)
 
-  [journal](https://ieeexplore.ieee.org/document/10858754)
+  [journal](https://ieeexplore.ieee.org/document/10858754) [arXiv](https://arxiv.org/abs/2401.04535) [pdf](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) 
 
 * [**Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis**](https://journal.global-sci.org/intro/article_detail/eajam/23157.html) [link](https://journal.global-sci.org/intro/article_detail/eajam/23157.html)
 
