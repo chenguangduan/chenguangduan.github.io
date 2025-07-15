@@ -1,6 +1,6 @@
 # Chenguang Duan
 
-I recently obtained my Ph.D. from the School of Mathematics and Statistics, Wuhan University, where I was very fortunate to be advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm). Throughout my research, I was also fortunate to work closely with Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I also earned my Bachelor's degree in Mathematics from Wuhan University. In the near future, I will be joining RWTH Aachen University as a postdoctoral researcher at Institute of Geometry and Practical Mathematics, working with Prof. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. [Wolfgang Dahmen](https://www.igpm.rwth-aachen.de/team/former/dahmen).
+I recently obtained my Ph.D. from the School of Mathematics and Statistics, Wuhan University, where I was very fortunate to be advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm). Throughout my research, I was also fortunate to work closely with Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I earned my Bachelor's degree in Mathematics from Wuhan University as well. In the near future, I will be joining RWTH Aachen University as a postdoctoral researcher at Institute of Geometry and Practical Mathematics, working with Prof. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. [Wolfgang Dahmen](https://www.igpm.rwth-aachen.de/team/former/dahmen).
 
 <br>
 
