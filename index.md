@@ -26,7 +26,7 @@ Email: [cgduan.math@gmail.com](cgduan.math@gmail.com), [cgduan.math@whu.edu.cn](
 
 (Alphabetical order)
 
-### Ongoing work
+#### Ongoing work
 
 * [**Nonlinear Assimilation with Score-based Sequential Langevin Sampling**](docs/Score_based_Sequential_Langevin_Sampling.pdf)
   
@@ -47,7 +47,7 @@ Email: [cgduan.math@gmail.com](cgduan.math@gmail.com), [cgduan.math@whu.edu.cn](
 
   [[PDF]](docs/Convergence_Rate_Covariate_Shift.pdf) [[link]](https://openreview.net/forum?id=WrBxRtGNLH)
 
-### Publications
+#### Publications
 
 * [**Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network**](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) 
 
