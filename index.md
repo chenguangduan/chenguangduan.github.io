@@ -10,11 +10,8 @@ My research interests lie at the intersection of computational mathematics, stat
 
 Here is my [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ) page.
 
-<br>
-
 Email: [cgduan.math@gmail.com](cgduan.math@gmail.com), [cgduan.math@whu.edu.cn](cgduan.math@whu.edu.cn)
 
-<br>
 <br>
 
 ## Research interests
@@ -29,7 +26,6 @@ Email: [cgduan.math@gmail.com](cgduan.math@gmail.com), [cgduan.math@whu.edu.cn](
 * Inverse problems and uncertainty quantification
 
 <br>
-<br>
 
 ## Research
 ---
@@ -37,6 +33,8 @@ Email: [cgduan.math@gmail.com](cgduan.math@gmail.com), [cgduan.math@whu.edu.cn](
 [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ)
 
 (Alphabetical order)
+
+<br>
 
 **Ongoing Work**
 
