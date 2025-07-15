@@ -49,7 +49,7 @@ Chenguang Duan, Yuling Jiao, Lican Kang, Xiliang Lu, and Jerry Zhijian Yang
 
 **Selected Publications**
 
-[**Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network**](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) 
+[Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) 
 
 Zhao Ding, Chenguang Duan, Yuling Jiao, and Jerry Zhijian Yang
 
@@ -57,7 +57,7 @@ Zhao Ding, Chenguang Duan, Yuling Jiao, and Jerry Zhijian Yang
 
 [[Journal]](https://ieeexplore.ieee.org/document/10858754) [[arXiv]](https://arxiv.org/abs/2401.04535v2) [[PDF]](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) [[slides]](docs/Semi_Supervised_Deep_Sobolev_Regression_slides.pdf)
 
-[**Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis**](docs/Inverse_Source_PINNs.pdf)
+[Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis](docs/Inverse_Source_PINNs.pdf)
 
 Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, and Pingwen Zhang
 
@@ -65,7 +65,7 @@ Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, and Pingwen Zhang
 
 [[Journal]](https://journal.global-sci.org/intro/article_detail/eajam/23157.html) [[PDF]](docs/Inverse_Source_PINNs.pdf)
 
-[**Current Density Impedance Imaging with PINNs**](docs/CDII_PINNs.pdf)
+[Current Density Impedance Imaging with PINNs](docs/CDII_PINNs.pdf)
 
 Chenguang Duan, Junjun Huang, Yuling Jiao, Xiliang Lu, and Jerry Zhijian Yang
 
@@ -73,7 +73,7 @@ Chenguang Duan, Junjun Huang, Yuling Jiao, Xiliang Lu, and Jerry Zhijian Yang
 
 [[Journal]](https://www.sciencedirect.com/science/article/pii/S0377042724003698) [[arXiv]](https://arxiv.org/abs/2306.13881) [[PDF]](docs/CDII_PINNs.pdf)
 
-[**Deep Ritz Methods for Laplace Equations with Dirichlet Boundary Condition**](docs/Deep_Ritz_Dirichlet.pdf)
+[Deep Ritz Methods for Laplace Equations with Dirichlet Boundary Condition](docs/Deep_Ritz_Dirichlet.pdf)
 
 Chenguang Duan, Yuling Jiao, Yanming Lai, Xiliang Lu, Qimeng Quan, and Jerry Zhijian Yang
 
@@ -81,7 +81,7 @@ Chenguang Duan, Yuling Jiao, Yanming Lai, Xiliang Lu, Qimeng Quan, and Jerry Zhi
 
 [[Journal]](https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html) [[arXiv]](https://arxiv.org/abs/2111.02009) [[PDF]](docs/Deep_Ritz_Dirichlet.pdf) 
 
-[**Convergence Rate Analysis for Deep Ritz Method**](docs/Deep_Ritz.pdf)
+[Convergence Rate Analysis for Deep Ritz Method](docs/Deep_Ritz.pdf)
 
 Chenguang Duan, Yuling Jiao, Yanming Lai, Dingwei Li, Xiliang Lu, and Jerry Zhijian Yang
 
