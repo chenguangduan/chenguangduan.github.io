@@ -1,9 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://chenguangduan.github.io/</loc>
-    <lastmod>2025-02-26</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://chenguangduan.github.io/</loc>
+  <lastmod>2025-07-15T06:30:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://chenguangduan.github.io/docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf</loc>
+  <lastmod>2025-07-15T06:30:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chenguangduan.github.io/docs/Characteristic_Learning.pdf</loc>
+  <lastmod>2025-07-15T06:30:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chenguangduan.github.io/docs/Convergence_Rate_Covariate_Shift.pdf</loc>
+  <lastmod>2025-07-15T06:30:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chenguangduan.github.io/docs/Semi_Supervised_Deep_Sobolev_Regression.pdf</loc>
+  <lastmod>2025-07-15T06:30:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chenguangduan.github.io/docs/Semi_Supervised_Deep_Sobolev_Regression_slides.pdf</loc>
+  <lastmod>2025-07-15T06:30:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chenguangduan.github.io/docs/Inverse_Source_PINNs.pdf</loc>
+  <lastmod>2025-07-15T06:30:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chenguangduan.github.io/docs/CDII_PINNs.pdf</loc>
+  <lastmod>2025-07-15T06:30:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chenguangduan.github.io/docs/Deep_Ritz_Dirichlet.pdf</loc>
+  <lastmod>2025-07-15T06:30:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chenguangduan.github.io/docs/Deep_Ritz.pdf</loc>
+  <lastmod>2025-07-15T06:30:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
