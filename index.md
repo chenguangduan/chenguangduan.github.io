@@ -28,7 +28,7 @@ Email: [cgduan.math@gmail.com](cgduan.math@gmail.com), [cgduan.math@whu.edu.cn](
 
 #### Ongoing work
 
-[**Nonlinear Assimilation with Score-based Sequential Langevin Sampling**](docs/Score_based_Sequential_Langevin_Sampling.pdf)
+[Nonlinear Assimilation with Score-based Sequential Langevin Sampling](docs/Score_based_Sequential_Langevin_Sampling.pdf)
   
 Zhao Ding, Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
 
