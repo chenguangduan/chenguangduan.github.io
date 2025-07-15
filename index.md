@@ -28,18 +28,18 @@ Email: [cgduan.math@gmail.com](cgduan.math@gmail.com), [cgduan.math@whu.edu.cn](
 
 #### Ongoing work
 
-* [**Nonlinear Assimilation with Score-based Sequential Langevin Sampling**](docs/Score_based_Sequential_Langevin_Sampling.pdf)
+[**Nonlinear Assimilation with Score-based Sequential Langevin Sampling**](docs/Score_based_Sequential_Langevin_Sampling.pdf)
   
+Zhao Ding, Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
 
-  Zhao Ding, Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
+[[arXiv]](https://arxiv.org/abs/2411.13443v2) [[PDF]](docs/Score_based_Sequential_Langevin_Sampling.pdf) [[code]](https://github.com/burning489/SSLS)
 
-  [[arXiv]](https://arxiv.org/abs/2411.13443v2) [[PDF]](docs/Score_based_Sequential_Langevin_Sampling.pdf) [[code]](https://github.com/burning489/SSLS)
 
-* [**Characteristic Learning for Provable One Step Generation**](docs/Characteristic_Learning.pdf)
+[**Characteristic Learning for Provable One Step Generation**](docs/Characteristic_Learning.pdf)
  
-   Zhao Ding, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang
+Zhao Ding, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang
 
-  [[arXiv]](https://arxiv.org/abs/2405.05512v4) [[PDF]](docs/Characteristic_Learning.pdf) [[code]](https://github.com/burning489/CharacteristicGenerator)
+[[arXiv]](https://arxiv.org/abs/2405.05512v4) [[PDF]](docs/Characteristic_Learning.pdf) [[code]](https://github.com/burning489/CharacteristicGenerator)
 
 * [**On Convergence Rates of Deep Nonparametric Regression under Covariate Shift**](docs/Convergence_Rate_Covariate_Shift.pdf)
    
@@ -47,7 +47,7 @@ Email: [cgduan.math@gmail.com](cgduan.math@gmail.com), [cgduan.math@whu.edu.cn](
 
   [[PDF]](docs/Convergence_Rate_Covariate_Shift.pdf) [[link]](https://openreview.net/forum?id=WrBxRtGNLH)
 
-#### Publications
+#### Selected Publications
 
 * [**Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network**](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) 
 
