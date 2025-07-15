@@ -1,8 +1,8 @@
 # Chenguang Duan
 
-I am currently a Ph.D. candidate in the School of Mathematics and Statistics at Wuhan University, advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm) and Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I completed my Bachelor's degree in mathematics at Wuhan University as well.
+I received my Ph.D. in 2025 from the School of Mathematics and Statistics, Wuhan University, advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm). Throughout my research, I worked closely with Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I also earned my Bachelor's degree in Mathematics from Wuhan University. In the near future, I will be joining RWTH Aachen University as a postdoctoral researcher at Institute of Geometry and Practical Mathematics, working with Prof. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. [Wolfgang Dahmen](https://www.igpm.rwth-aachen.de/team/former/dahmen).
 
-My research interests lie at the intersection of computational mathematics, statistics, and machine learning, with a particular focus on learning theory and scientific machine learning.
+My research interests lie at the intersection of computational mathematics, statistics, and machine learning, with a particular emphasis on learning theory, generative models, and scientific machine learning.
 
 Here is my [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ) page.
 
