@@ -34,12 +34,15 @@ Zhao Ding, Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Ping
 
 [[arXiv]](https://arxiv.org/abs/2411.13443v2) [[PDF]](docs/Score_based_Sequential_Langevin_Sampling.pdf) [[code]](https://github.com/burning489/SSLS)
 
+<br>
 
 [Characteristic Learning for Provable One Step Generation](docs/Characteristic_Learning.pdf)
  
 Zhao Ding, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang
 
 [[arXiv]](https://arxiv.org/abs/2405.05512v4) [[PDF]](docs/Characteristic_Learning.pdf) [[code]](https://github.com/burning489/CharacteristicGenerator)
+
+<br>
 
 [On Convergence Rates of Deep Nonparametric Regression under Covariate Shift](docs/Convergence_Rate_Covariate_Shift.pdf)
    
