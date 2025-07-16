@@ -70,7 +70,7 @@ Zhao Ding, Chenguang Duan, Yuling Jiao, and Jerry Zhijian Yang
 
 *IEEE Transactions on Information Theory* (2025)
 
-The 18th East Asia Section of SIAM (EASIAM) Student Paper Prize, Second Prize
+* Awarded the 18th East Asia Section of SIAM (EASIAM) Student Paper Prize, Second Prize
 
 [[Journal]](https://ieeexplore.ieee.org/document/10858754) [[arXiv]](https://arxiv.org/abs/2401.04535v2) [[PDF]](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) [[slides]](docs/Semi_Supervised_Deep_Sobolev_Regression_slides.pdf)
 
