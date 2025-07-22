@@ -54,14 +54,6 @@ Zhao Ding, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Ping
 
 <br>
 
-[On Convergence Rates of Deep Nonparametric Regression under Covariate Shift](docs/Convergence_Rate_Covariate_Shift.pdf)
-   
-Chenguang Duan, Yuling Jiao, Lican Kang, Xiliang Lu, and Jerry Zhijian Yang
-
-[[PDF]](docs/Convergence_Rate_Covariate_Shift.pdf) [[link]](https://openreview.net/forum?id=WrBxRtGNLH)
-
-<br>
-
 **Selected Publications**
 
 [Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network](docs/Semi_Supervised_Deep_Sobolev_Regression.pdf) 
