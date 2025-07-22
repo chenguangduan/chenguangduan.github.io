@@ -30,7 +30,7 @@ Email: [cgduan.math@gmail.com](cgduan.math@gmail.com) (Preferred), [cgduan.math@
 ## Research
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ) (All of my publications have authors listed in **alphabetical order**)
+[Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ) (All of my publications have authors listed in alphabetical order)
 
 <br>
 
