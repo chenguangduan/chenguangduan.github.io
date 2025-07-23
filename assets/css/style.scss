@@ -4,112 +4,120 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width: 80%;
-  max-width: 1000px;
-  margin: 0 auto;
+width: 80%;
+max-width: 1000px;
+margin: 0 auto;
 }
 
 header {
-  display: none;
+display: none;
 }
 
 section {
-  width: 100%;
-  float: none;
-  border-left: none;
-  padding-left: 0;
-  margin-left: 0;
+width: 100%;
+float: none;
+border-left: none;
+padding-left: 0;
+margin-left: 0;
 }
 
 .sidebar, .sidebar-footer {
-  display: none;
+display: none;
 }
 
-@media print, screen and (max-width: 960px) {
-  div.wrapper {
-    width: auto;
-    margin: 0;
-  }
-  
-  header, section {
-    float: none;
-    width: auto;
-  }
-}
-
-.view a:contains("View My GitHub Profile") {
-  display: none;
-}
-
-.green-text {
-  color: #00797c;
-}
-
-.wrapper section {
-  font-size: 14pt;
-}
-
-html, body {
-  font-size: 14px; 
-  line-height: 1.5;
-  margin-bottom: 0pt;
-}
-
-h1 {
-  font-size: 20pt;
-  color: #002554; 
-  font-family: 'Georgia', serif;
-}
-
-h2 {
-  font-size: 16pt;
-  color: #00797c; 
-  font-family: 'Georgia', serif;
-  margin-bottom: 0pt;  
-}
-
-h3 {
-  font-size: 14pt;
-  color: #00797c; 
-  font-family: 'Georgia', serif;
-}
-
-h4, h5, h6 {
-  font-size: 14pt;
-  color: #00797c; 
-  font-family: 'Georgia', serif;
-}
-
-p {
-  font-size: 14px;
-  line-height: 1.5;
-  margin-bottom: 0pt;  
-}
-
-footer {
-  font-size: 14pt;
+.custom-details {
+max-width: 600px;
+margin: 20px auto;
+box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+border-radius: 8px;
+overflow: hidden;
 }
 
 .custom-summary {
-  display: inline-block; 
-  padding: 10px 20px;
-  background-color: #007bff; 
-  color: #ffffff; 
-  border: none;
-  border-radius: 5px; 
-  cursor: pointer; 
-  font-size: 14px; 
-  font-family: sans-serif;
-  font-weight: bold;
-  transition: background-color 0.2s ease; 
-  user-select: none; 
-  outline: none; 
+display: inline-block; 
+padding: 10px 20px;
+background-color: #007bff; 
+color: #ffffff; 
+border: none;
+border-radius: 5px; 
+cursor: pointer; 
+font-size: 14px; 
+font-family: sans-serif;
+font-weight: bold;
+transition: background-color 0.2s ease; 
+user-select: none; 
+outline: none; 
 }
 
 .details-content {
-  font-family: Georgia, "Times New Roman", Times, serif; 
-  font-size: 14px;    
-  line-height: 1.5;    
-  color: #333333;   
+font-family: Georgia, "Times New Roman", Times, serif; 
+font-size: 14px;    
+line-height: 1.5;    
+color: #333333;   
+}
+
+@media print, screen and (max-width: 960px) {
+div.wrapper {
+width: auto;
+margin: 0;
+}
+
+header, section {
+float: none;
+width: auto;
+}
+}
+
+.view a:contains("View My GitHub Profile") {
+display: none;
+}
+
+.green-text {
+color: #00797c;
+}
+
+.wrapper section {
+font-size: 14pt;
+}
+
+html, body {
+font-size: 14px; 
+line-height: 1.5;
+margin-bottom: 0pt;
+}
+
+h1 {
+font-size: 20pt;
+color: #002554; 
+font-family: 'Georgia', serif;
+}
+
+h2 {
+font-size: 16pt;
+color: #00797c; 
+font-family: 'Georgia', serif;
+margin-bottom: 0pt;  
+}
+
+h3 {
+font-size: 14pt;
+color: #00797c; 
+font-family: 'Georgia', serif;
+}
+
+h4, h5, h6 {
+font-size: 14pt;
+color: #00797c; 
+font-family: 'Georgia', serif;
+}
+
+p {
+font-size: 14px;
+line-height: 1.5;
+margin-bottom: 0pt;  
+}
+
+footer {
+font-size: 14pt;
 }
 
