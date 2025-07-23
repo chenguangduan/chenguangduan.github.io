@@ -35,25 +35,15 @@ overflow: hidden;
 
 .custom-summary {
 display: inline-block; 
-padding: 10px 20px;
-background-color: #007bff; 
-color: #ffffff; 
-border: none;
-border-radius: 5px; 
-cursor: pointer; 
 font-size: 14px; 
 font-family: sans-serif;
-font-weight: bold;
-transition: background-color 0.2s ease; 
-user-select: none; 
-outline: none; 
+font-weight: normal;
 }
 
 .details-content {
-font-family: Georgia, "Times New Roman", Times, serif; 
+font-family: Georgia; 
 font-size: 14px;    
-line-height: 1.5;    
-color: #333333;   
+line-height: 1.5;     
 }
 
 @media print, screen and (max-width: 960px) {
