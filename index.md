@@ -52,12 +52,14 @@ This paper presents score-based sequential Langevin sampling (SSLS), a novel app
 <details>
 <summary> Bibtex </summary>
 <div class="collapsible-content">
+```
 @misc{ding2025nonlinear,
       title={Nonlinear Assimilation via Score-based Sequential {S}angevin Sampling}, 
       author={Zhao Ding and Chenguang Duan and Yuling Jiao and Jerry Zhijian Yang and Cheng Yuan and Pingwen Zhang},
       year={2025},
       note={arXiv:2411.13443},
 }
+```
 </div>
 </details> 
 
