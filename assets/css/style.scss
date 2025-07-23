@@ -37,6 +37,14 @@ details > summary {
   cursor: pointer;
 }
 
+details > div {
+  font-size: 14px;
+  color: #333;      
+  background-color: #f4f4f4; 
+  padding: 15px;            
+  border-radius: 5px;     
+}
+
 details > .collapsible-content {
   font-size: 14px;
   font-family: "Arial", sans-serif;
