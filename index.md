@@ -42,6 +42,19 @@ Zhao Ding, Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Ping
 
 [[arXiv]](https://arxiv.org/abs/2411.13443v2) [[PDF]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf) [[code]](https://github.com/burning489/SSLS) [[slides]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling_slides.pdf)
 
+<details>
+  <summary><span style="font-size: 20px;">点击展开/收起内容</span></summary>
+  
+  <span style="font-size: 18px;">这里是折叠的内容，可以是文本、代码块或其他内容。</span>
+  - 你可以在这里添加列表
+  - 你也可以添加代码块：
+
+  ```python
+  def hello_world():
+      print("Hello, world!")
+
+</details> 
+
 <br>
 
 [Characteristic Learning for Provable One Step Generation](docs/Characteristic_Learning.pdf)
