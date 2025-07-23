@@ -43,8 +43,8 @@ Zhao Ding, Chenguang Duan, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Ping
 [[arXiv]](https://arxiv.org/abs/2411.13443v2) [[PDF]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf) [[code]](https://github.com/burning489/SSLS) [[slides]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling_slides.pdf)
 
 <details>
-  <summary>abs</summary>
-  this is an abstract
+<summary> abs </summary>
+this is an abstract
 </details>
 
 <br>
