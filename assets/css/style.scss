@@ -25,6 +25,11 @@ margin-left: 0;
 display: none;
 }
 
+details {
+  display: inline-block;
+  margin-right: 20px;  
+}
+
 details > summary {
   font-size: 14px;
   font-weight: normal;
@@ -33,12 +38,12 @@ details > summary {
 }
 
 details > .collapsible-content {
-  font-size: 12px;          
-  font-family: "Arial", sans-serif; 
-  color: #333;               
-  padding: 15px;             
-  background-color: #f9f9f9; 
-  border-radius: 5px;       
+  font-size: 14px;
+  font-family: "Arial", sans-serif;
+  color: #00797c;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
 }
 
 @media print, screen and (max-width: 960px) {
