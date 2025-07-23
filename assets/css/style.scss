@@ -25,27 +25,6 @@ margin-left: 0;
 display: none;
 }
 
-.custom-details {
-max-width: 600px;
-margin: 20px auto;
-box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-border-radius: 8px;
-overflow: hidden;
-}
-
-.custom-summary {
-display: inline-block; 
-font-size: 14px; 
-font-family: sans-serif;
-font-weight: normal;
-}
-
-.details-content {
-font-family: Georgia; 
-font-size: 14px;    
-line-height: 1.5;     
-}
-
 @media print, screen and (max-width: 960px) {
 div.wrapper {
 width: auto;
