@@ -91,3 +91,18 @@ footer {
   font-size: 14pt;
 }
 
+.custom-summary {
+  display: inline-block; 
+  padding: 10px 20px;
+  background-color: #007bff; 
+  color: #ffffff; 
+  border: none;
+  border-radius: 5px; 
+  cursor: pointer; 
+  font-family: sans-serif;
+  font-weight: bold;
+  transition: background-color 0.2s ease; 
+  user-select: none; 
+  outline: none; 
+}
+
