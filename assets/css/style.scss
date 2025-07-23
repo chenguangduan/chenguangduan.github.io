@@ -45,13 +45,13 @@ details > div {
   border-radius: 5px;     
 }
 
-details > .collapsible-content {
-  font-size: 14px;
-  font-family: "Arial", sans-serif;
-  color: #00797c;
-  padding: 15px;
-  background-color: #f9f9f9;
+details > div pre {
+  font-size: 14px;         
+  background-color: #f4f4f4; 
+  color: #f8f8f2;          
+  padding: 10px;
   border-radius: 5px;
+  overflow-x: auto;     
 }
 
 @media print, screen and (max-width: 960px) {
