@@ -50,6 +50,10 @@ details > pre {
   overflow-x: auto;                 
 }
 
+details > pre > code {
+  font-size: 14px;        
+}
+
 @media print, screen and (max-width: 960px) {
 div.wrapper {
 width: auto;
