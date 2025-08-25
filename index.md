@@ -12,7 +12,7 @@ Here is my [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAA
 
 Address: Room 105, Templergraben 55, 52062 Aachen, Germany
 
-Email: [cgduan.math@gmail.com](cgduan.math@gmail.com) (Preferred), duan@igpm.rwth-aachen.de
+Email: [cgduan.math@gmail.com](cgduan.math@gmail.com) (Preferred), [duan@igpm.rwth-aachen.de](duan@igpm.rwth-aachen.de)
 
 <br>
 
