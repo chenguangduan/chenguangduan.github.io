@@ -10,7 +10,9 @@ My research interests lie at the intersection of computational mathematics, stat
 
 Here is my [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ) page.
 
-Email: [cgduan.math@gmail.com](cgduan.math@gmail.com) 
+Address: Room 105, Templergraben 55, 52062 Aachen, Germany
+
+Email: [cgduan.math@gmail.com](cgduan.math@gmail.com) (Preferred), duan@igpm.rwth-aachen.de
 
 <br>
 
