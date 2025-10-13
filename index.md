@@ -14,6 +14,8 @@ Address: Room 105, Templergraben 55, 52062 Aachen, Germany
 
 Email: [cgduan.math@gmail.com](cgduan.math@gmail.com) (Preferred), [duan@igpm.rwth-aachen.de](duan@igpm.rwth-aachen.de)
 
+ORCID: [0009-0009-0815-6281](https://orcid.org/0009-0009-0815-6281)
+
 <br>
 
 ## Research interests
