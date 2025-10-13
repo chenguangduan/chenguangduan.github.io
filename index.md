@@ -19,14 +19,14 @@ Email: [cgduan.math@gmail.com](cgduan.math@gmail.com) (Preferred), [duan@igpm.rw
 ## Research interests
 ---
 
-* Statistical learning and deep learning theory
-  
-* Generative models and sampling
-  
-* Machine learning for scientific computing
+* Scientific machine learning
   
 * Inverse problems and uncertainty quantification
 
+* Generative models and sampling
+
+* Statistical learning and deep learning theory
+  
 <br>
 
 ## Research
@@ -69,7 +69,26 @@ This paper presents score-based sequential Langevin sampling (SSLS), a novel app
  
 Zhao Ding, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang
 
-[[arXiv]](https://arxiv.org/abs/2405.05512v4) [[PDF]](docs/Characteristic_Learning.pdf) [[code]](https://github.com/burning489/CharacteristicGenerator)
+[[arXiv]](https://arxiv.org/abs/2405.05512v5) [[PDF]](docs/Characteristic_Learning.pdf) [[code]](https://github.com/burning489/CharacteristicGenerator)
+
+<details>
+<summary> Abstract </summary>
+<div class="collapsible-content">
+We propose the characteristic generator, a novel one-step generative model that combines the efficiency of sampling in Generative Adversarial Networks (GANs) with the stable performance of flow-based models. Our model is driven by characteristics, along which the probability density transport can be described by ordinary differential equations (ODEs). Specifically, we first estimate the underlying velocity field and use the Euler method to solve the probability flow ODE, generating discrete approximations of the characteristics. A deep neural network is then trained to fit these characteristics, creating a one-step map that pushes a simple Gaussian distribution to the target distribution. In the theoretical aspect, we provide a comprehensive analysis of the errors arising from velocity matching, Euler discretization, and characteristic fitting to establish a non-asymptotic convergence rate in the 2-Wasserstein distance under mild data assumptions. Crucially, we demonstrate that under a standard manifold assumption, this convergence rate depends only on the intrinsic dimension of data rather than the much larger ambient dimension, proving our model's ability to mitigate the curse of dimensionality. To our knowledge, this is the first rigorous convergence analysis for a flow-based one-step generative model. Experiments on both synthetic and real-world datasets demonstrate that the characteristic generator achieves high-quality and high-resolution sample generation with the efficiency of just a single neural network evaluation.
+</div>
+</details> 
+
+<details>
+<summary> Bibtex </summary>
+<pre><code>
+@misc{ding2025characteristiclearningprovablestep,
+      title={Characteristic Learning for Provable One Step Generation}, 
+      author={Zhao Ding and Chenguang Duan and Yuling Jiao and Ruoxuan Li and Jerry Zhijian Yang and Pingwen Zhang},
+      year={2025},
+      note={arXiv:2405.05512},
+}
+</code></pre>
+</details> 
 
 <br>
 
