@@ -21,7 +21,7 @@ Email: [cgduan.math@gmail.com](cgduan.math@gmail.com) (Preferred), [duan@igpm.rw
 
 * Scientific machine learning
   
-* Inverse problems and uncertainty quantification
+* Inverse problems
 
 * Generative models and sampling
 
