@@ -22,10 +22,10 @@ ORCID: [0009-0009-0815-6281](https://orcid.org/0009-0009-0815-6281)
 ---
 
 * Scientific machine learning
-  
-* Inverse problems
 
 * Generative models and sampling
+  
+* Inverse problems
 
 * Statistical learning and deep learning theory
   
