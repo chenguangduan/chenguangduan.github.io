@@ -4,7 +4,7 @@ I am a postdoctoral researcher in the Institut für Geometrie und Praktische Mat
 
 <br>
 
-My research interests lie at the intersection of computational mathematics, statistics, and machine learning, with a particular emphasis on learning theory, generative models, and scientific machine learning.
+My research interests lie at the intersection of computational mathematics, statistics, and machine learning, with a particular emphasis on scientific machine learning, generative models, and learning theory.
 
 <br>
 
