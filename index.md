@@ -146,5 +146,8 @@ Chenguang Duan, Yuling Jiao, Yanming Lai, Dingwei Li, Xiliang Lu, and Jerry Zhij
 
 [[Journal]](https://journal.global-sci.org/intro/article_detail/cicp/20375.html) [[arXiv]](https://arxiv.org/abs/2103.13330) [[PDF]](docs/Deep_Ritz.pdf)
 
-  
+
+<body>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=H9CnWG9M-zXOpBTdhYeqHGEuPRWYE5zH19GabgSMt_M&cl=ffffff&w=a"></script>
+</body>
 
