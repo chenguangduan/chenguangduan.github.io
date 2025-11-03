@@ -1,6 +1,6 @@
 # Chenguang Duan
 
-I am a postdoctoral researcher in the Institut für Geometrie und Praktische Mathematik at RWTH Aachen University, working with Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. Dr. [Wolfgang Dahmen](https://www.igpm.rwth-aachen.de/team/former/dahmen). Prior to RWTH, I obtained my Ph.D. from the School of Mathematics and Statistics, Wuhan University, where I was advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm). Throughout my research, I also work closely with Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I earned my Bachelor's degree in Mathematics from Wuhan University as well. 
+I am a postdoctoral researcher in the Institut für Geometrie und Praktische Mathematik at RWTH Aachen University, working with Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. Dr. [Wolfgang Dahmen](https://www.igpm.rwth-aachen.de/team/former/dahmen). Prior to RWTH Aachen, I obtained my Ph.D. from the School of Mathematics and Statistics, Wuhan University, where I was advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm). Throughout my research, I also work closely with Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I earned my Bachelor's degree in Mathematics from Wuhan University as well. 
 
 <br>
 
@@ -148,6 +148,6 @@ Chenguang Duan, Yuling Jiao, Yanming Lai, Dingwei Li, Xiliang Lu, and Jerry Zhij
 
 
 <body>
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=cfc1c1&w=75&t=n&d=H9CnWG9M-zXOpBTdhYeqHGEuPRWYE5zH19GabgSMt_M&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=cfc1c1&w=150&t=n&d=H9CnWG9M-zXOpBTdhYeqHGEuPRWYE5zH19GabgSMt_M&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 </body>
 
