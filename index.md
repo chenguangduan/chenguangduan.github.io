@@ -57,10 +57,10 @@ This paper presents score-based sequential Langevin sampling (SSLS), a novel app
 <summary> Bibtex </summary>
 <pre><code>
 @misc{ding2025nonlinear,
-      title={Nonlinear Assimilation via Score-based Sequential {S}angevin Sampling}, 
-      author={Zhao Ding and Chenguang Duan and Yuling Jiao and Jerry Zhijian Yang and Cheng Yuan and Pingwen Zhang},
-      year={2025},
-      note={arXiv:2411.13443},
+title={Nonlinear Assimilation via Score-based Sequential {S}angevin Sampling}, 
+author={Zhao Ding and Chenguang Duan and Yuling Jiao and Jerry Zhijian Yang and Cheng Yuan and Pingwen Zhang},
+year={2025},
+note={arXiv:2411.13443},
 }
 </code></pre>
 </details> 
@@ -84,10 +84,10 @@ We propose the characteristic generator, a novel one-step generative model that 
 <summary> Bibtex </summary>
 <pre><code>
 @misc{ding2025characteristic,
-      title={Characteristic Learning for Provable One Step Generation}, 
-      author={Zhao Ding and Chenguang Duan and Yuling Jiao and Ruoxuan Li and Jerry Zhijian Yang and Pingwen Zhang},
-      year={2025},
-      note={arXiv:2405.05512},
+title={Characteristic Learning for Provable One Step Generation}, 
+author={Zhao Ding and Chenguang Duan and Yuling Jiao and Ruoxuan Li and Jerry Zhijian Yang and Pingwen Zhang},
+year={2025},
+note={arXiv:2405.05512},
 }
 </code></pre>
 </details> 
@@ -106,6 +106,28 @@ with Zhao Ding, Yuling Jiao, and Jerry Zhijian Yang
 
 [[Journal]](https://ieeexplore.ieee.org/document/10858754) [[arXiv]](https://arxiv.org/abs/2401.04535) [[PDF]](docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf) [[slides]](docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network_slides.pdf)
 
+<details>
+<summary> Abstract </summary>
+<div class="collapsible-content">
+We propose SDORE, a semi-supervised deep Sobolev regressor, for the nonparametric estimation of the underlying regression function and its gradient. SDORE employs deep ReQU neural networks to minimize the empirical risk with gradient norm regularization, allowing the approximation of the regularization term by unlabeled data. Our study includes a thorough analysis of the convergence rates of SDORE in $L^{2}$-norm, achieving the minimax optimality. Further, we establish a convergence rate for the associated plug-in gradient estimator, even in the presence of significant domain shift. These theoretical findings offer valuable insights for selecting regularization parameters and determining the size of the neural network, while showcasing the provable advantage of leveraging unlabeled data in semi-supervised learning. To the best of our knowledge, SDORE is the first provable neural network-based approach that simultaneously estimates the regression function and its gradient, with diverse applications such as nonparametric variable selection. The effectiveness of SDORE is validated through an extensive range of numerical simulations.
+</div>
+</details> 
+
+<details>
+<summary> Bibtex </summary>
+<pre><code>
+@article{ding2025semi,
+author={Ding, Zhao and Duan, Chenguang and Jiao, Yuling and Yang, Jerry Zhijian},
+journal={IEEE Transactions on Information Theory}, 
+title={Semi-Supervised Deep {S}obolev Regression: {E}stimation and Variable Selection by {ReQU} Neural Network}, 
+year={2025},
+volume={71},
+number={4},
+pages={2955--2981},
+}
+</code></pre>
+</details> 
+
 <br>
 
 [Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis](docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf)
@@ -115,6 +137,28 @@ with Yuling Jiao, Jerry Zhijian Yang, and Pingwen Zhang
 *East Asian Journal on Applied Mathematics* (2024)
 
 [[Journal]](https://journal.global-sci.org/intro/article_detail/eajam/23157.html) [[PDF]](docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf)
+
+<details>
+<summary> Abstract </summary>
+<div class="collapsible-content">
+In this paper, we present a deep learning approach to tackle elliptic inverse source problems. Our method combines Tikhonov regularization with physics-informed neural networks, utilizing separate neural networks to approximate the source term and solution. Firstly, we construct a population loss and derive stability estimates. Furthermore, we conduct a convergence analysis of the empirical risk minimization estimator. This analysis yields a prior rule for selecting regularization parameters, determining the number of observations, and choosing the size of neural networks. Finally, we validate our proposed method through numerical experiments. These experiments also demonstrate the remarkable robustness of our approach against data noise, even at high levels of up to 50%.
+</div>
+</details> 
+
+<details>
+<summary> Bibtex </summary>
+<pre><code>
+@article{duan2024recovering, 
+author = {Duan, Chenguang and Jiao, Yuling and Yang, Jerry Zhijian and Zhang, Pingwen}, 
+title = {Recovering the Source Term in Elliptic Equation via Deep Learning: {M}ethod and Convergence Analysis}, 
+journal = {East Asian Journal on Applied Mathematics}, 
+year = {2024}, 
+volume = {14}, 
+number = {3}, 
+pages = {460--489}, 
+}
+</code></pre>
+</details> 
 
 <br>
 
@@ -126,6 +170,27 @@ with Junjun Huang, Yuling Jiao, Xiliang Lu, and Jerry Zhijian Yang
 
 [[Journal]](https://www.sciencedirect.com/science/article/pii/S0377042724003698) [[arXiv]](https://arxiv.org/abs/2306.13881) [[PDF]](docs/Current_Density_Impedance_Imaging_with_PINNs.pdf)
 
+<details>
+<summary> Abstract </summary>
+<div class="collapsible-content">
+In this paper, we introduce CDII-PINNs, a computationally efficient method for solving CDII using PINNs in the framework of Tikhonov regularization. This method constructs a physics-informed loss function by merging the regularized least-squares output functional with an underlying differential equation, which describes the relationship between the conductivity and voltage. A pair of neural networks representing the conductivity and voltage, respectively, are coupled by this loss function. Then, minimizing the loss function provides a reconstruction. A rigorous theoretical guarantee is provided. We give an error analysis for CDII-PINNs and establish a convergence rate, based on prior selected neural network parameters in terms of the number of samples. The numerical simulations demonstrate that CDII-PINNs are efficient, accurate and robust to noise levels ranging from 1% to 20%.
+</div>
+</details> 
+
+<details>
+<summary> Bibtex </summary>
+<pre><code>
+@article{duan2024Current,
+title = {Current density impedance imaging with {PINNs}},
+journal = {Journal of Computational and Applied Mathematics},
+volume = {452},
+pages = {116120},
+year = {2024},
+author = {Chenguang Duan and Junjun Huang and Yuling Jiao and Xiliang Lu and Jerry Zhijian Yang},
+}
+</code></pre>
+</details> 
+
 <br>
 
 [Deep Ritz Methods for Laplace Equations with Dirichlet Boundary Condition](docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf)
@@ -135,6 +200,28 @@ with Yuling Jiao, Yanming Lai, Xiliang Lu, Qimeng Quan, and Jerry Zhijian Yang
 *CSIAM Transactions on Applied Mathematics* (2022)
 
 [[Journal]](https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html) [[arXiv]](https://arxiv.org/abs/2111.02009) [[PDF]](docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf) 
+
+<details>
+<summary> Abstract </summary>
+<div class="collapsible-content">
+Deep Ritz methods (DRM) have been proven numerically to be efficient in solving partial differential equations. In this paper, we present a convergence rate in $H^{1}$ norm for deep Ritz methods for Laplace equations with Dirichlet boundary condition, where the error depends on the depth and width in the deep neural networks and the number of samples explicitly. Further we can properly choose the depth and width in the deep neural networks in terms of the number of training samples. The main idea of the proof is to decompose the total error of DRM into three parts, that is approximation error, statistical error and the error caused by the boundary penalty. We bound the approximation error in $H^{1}$-norm with ReLU$^{2}$ networks and control the statistical error via Rademacher complexity. In particular, we derive the bound on the Rademacher complexity of the non-Lipschitz composition of gradient norm with ReLU$^{2}$ network, which is of immense independent interest. We also analyze the error inducing by the boundary penalty method and give a prior rule for tuning the penalty parameter.
+</div>
+</details> 
+
+<details>
+<summary> Bibtex </summary>
+<pre><code>
+@article{duan2022deep,
+author = {Duan, Chenguang and Jiao, Yuling and Lai, Yanming and Lu, Xiliang and Quan, Qimeng and Yang, Jerry Zhijian}, 
+title = {Deep {Ritz} Methods for {Laplace} Equations with {Dirichlet} Boundary Condition}, 
+journal = {CSIAM Transactions on Applied Mathematics}, 
+year = {2022}, 
+volume = {3}, 
+number = {4}, 
+pages = {761--791},
+}
+</code></pre>
+</details> 
 
 <br>
 
@@ -146,7 +233,27 @@ with Yuling Jiao, Yanming Lai, Dingwei Li, Xiliang Lu, and Jerry Zhijian Yang
 
 [[Journal]](https://journal.global-sci.org/intro/article_detail/cicp/20375.html) [[arXiv]](https://arxiv.org/abs/2103.13330) [[PDF]](docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf)
 
+<details>
+<summary> Abstract </summary>
+<div class="collapsible-content">
+Using deep neural networks to solve PDEs has attracted a lot of attentions recently. However, why the deep learning method works is falling far behind its empirical success. In this paper, we provide a rigorous numerical analysis on deep Ritz method (DRM) for second order elliptic equations with Neumann boundary conditions. We establish the first nonasymptotic convergence rate in $H^{1}$ norm for DRM using deep networks with ReLU$^2$ activation functions. In addition to providing a theoretical justification of DRM, our study also shed light on how to set the hyperparameter of depth and width to achieve the desired convergence rate in terms of number of training samples. Technically, we derive bound on the approximation error of deep ReLU$^2$ network in $C^{1}$ norm and bound on the Rademacher complexity of the non-Lipschitz composition of gradient norm and ReLU$^2$ network, both of which are of independent interest.
+</div>
+</details> 
 
+<details>
+<summary> Bibtex </summary>
+<pre><code>
+@article{duan2022convergence, 
+author = {Duan, Chenguang and Jiao, Yuling and Lai, Yanming and Li, Dingwei and Lu, Xiliang and Yang, Jerry Zhijian}, 
+title = {Convergence Rate Analysis for Deep {Ritz} Method}, 
+journal = {Communications in Computational Physics}, 
+year = {2022}, 
+volume = {31}, 
+number = {4}, 
+pages = {1020--1048},
+}
+</code></pre>
+</details> 
 
 
 <body>
