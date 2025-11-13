@@ -4,7 +4,7 @@ I am a postdoctoral researcher in the Institut für Geometrie und Praktische Mat
 
 <br>
 
-Previously, I obtained my Ph.D. from the School of Mathematics and Statistics at Wuhan University, where I was advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm) and also worked closely with Prof. Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I also earned a Bachelor's degree in Mathematics from Wuhan University.
+Previously, I obtained my Ph.D. from the School of Mathematics and Statistics at Wuhan University, where I was advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm) and Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I also earned a Bachelor's degree in Mathematics from Wuhan University.
 
 <br>
 
