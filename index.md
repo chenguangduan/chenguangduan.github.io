@@ -1,10 +1,18 @@
 # Chenguang Duan
 
-I am a postdoctoral researcher in the Institut für Geometrie und Praktische Mathematik at RWTH Aachen University, working with Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. Dr. [Wolfgang Dahmen](https://www.igpm.rwth-aachen.de/team/former/dahmen). Prior to RWTH Aachen, I obtained my Ph.D. from the School of Mathematics and Statistics, Wuhan University, where I was advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm). Throughout my research, I also work closely with Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I earned my Bachelor's degree in Mathematics from Wuhan University as well. 
+I am a postdoctoral researcher in the Institut für Geometrie und Praktische Mathematik at RWTH Aachen University, working with Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. Dr. [Wolfgang Dahmen](https://www.igpm.rwth-aachen.de/team/former/dahmen). 
 
 <br>
 
-My research interests lie at the intersection of computational mathematics, statistics, and machine learning, with a particular emphasis on scientific machine learning, generative models, and learning theory.
+Previously, I obtained my Ph.D. from the School of Mathematics and Statistics at Wuhan University, where I was advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm) and also worked closely with Prof. Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I also earned a Bachelor's degree in Mathematics from Wuhan University.
+
+<br>
+
+My research interests lie at the intersection of computational mathematics, statistics, and machine learning, with a particular focus on scientific machine learning, generative models, and learning theory.
+
+<br>
+
+I welcome opportunities for collaboration and discussion. Please feel free to contact me if you are interested in scientific machine learning,generative models, or related topics.
 
 <br>
 
