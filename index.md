@@ -12,7 +12,7 @@ My research interests lie at the intersection of computational mathematics, stat
 
 <br>
 
-I welcome opportunities for collaboration and discussion. Please feel free to contact me if you are interested in scientific machine learning,generative models, or related topics.
+I welcome opportunities for collaboration and discussion. Please feel free to reach out if you share an interest in these topics.
 
 <br>
 
