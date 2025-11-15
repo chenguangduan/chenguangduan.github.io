@@ -21,22 +21,26 @@ Email: [cgduan.math@gmail.com](mailto:cgduan.math@gmail.com) (Preferred) | [duan
 ORCID: [0009-0009-0815-6281](https://orcid.org/0009-0009-0815-6281)  
 Scholar: [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ)
 
+<br>
+
+## Research interests
 ---
 
-## Research Interests
+* Scientific machine learning
 
-- Scientific machine learning
-- Generative models and sampling
-- Inverse problems
-- Statistical learning and deep learning theory
+* Generative models and sampling
+  
+* Inverse problems
 
----
+* Statistical learning and deep learning theory
+  
+<br>
 
 ## Research
 
 *All publications have authors listed in alphabetical order. See [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ) for a complete list.*
 
-#### Ongoing Work
+**Ongoing Work**
 
 **Nonlinear Assimilation via Score-based Sequential Langevin Sampling**
 
@@ -69,7 +73,7 @@ This paper presents score-based sequential Langevin sampling (SSLS), a novel app
 
 With Zhao Ding, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang
 
-[[arXiv]](https://arxiv.org/abs/2405.05512) | [[PDF]](docs/Characteristic_Learning_for_Provable_One_Step_Generation.pdf) | [[Code]](https://github.com/burning489/CharacteristicGenerator) | [[Slides]](docs/Characteristic_Learning_for_Provable_One_Step_Generation_slides.pdf)
+[[arXiv]](https://arxiv.org/abs/2405.05512) [[PDF]](docs/Characteristic_Learning_for_Provable_One_Step_Generation.pdf) [[Code]](https://github.com/burning489/CharacteristicGenerator) [[Slides]](docs/Characteristic_Learning_for_Provable_One_Step_Generation_slides.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -92,7 +96,7 @@ We propose the characteristic generator, a novel one-step generative model that 
 
 </details>
 
-#### Selected Publications
+**Selected Publications**
 
 **Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network**
 
@@ -102,7 +106,7 @@ With Zhao Ding, Yuling Jiao, and Jerry Zhijian Yang
 
 *Awarded the 18th East Asia Section of SIAM (EASIAM) Student Paper Prize, Second Prize*
 
-[[Journal]](https://ieeexplore.ieee.org/document/10858754) | [[arXiv]](https://arxiv.org/abs/2401.04535) | [[PDF]](docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf) | [[Slides]](docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network_slides.pdf)
+[[Journal]](https://ieeexplore.ieee.org/document/10858754) [[arXiv]](https://arxiv.org/abs/2401.04535) [[PDF]](docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf) [[Slides]](docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network_slides.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -134,7 +138,7 @@ With Yuling Jiao, Jerry Zhijian Yang, and Pingwen Zhang
 
 *East Asian Journal on Applied Mathematics* (2024), vol. 14, no. 3, pp. 460–489
 
-[[Journal]](https://journal.global-sci.org/intro/article_detail/eajam/23157.html) | [[PDF]](docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf)
+[[Journal]](https://journal.global-sci.org/intro/article_detail/eajam/23157.html) [[PDF]](docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -166,7 +170,7 @@ With Junjun Huang, Yuling Jiao, Xiliang Lu, and Jerry Zhijian Yang
 
 *Journal of Computational and Applied Mathematics* (2024), vol. 452, p. 116120
 
-[[Journal]](https://www.sciencedirect.com/science/article/pii/S0377042724003698) | [[arXiv]](https://arxiv.org/abs/2306.13881) | [[PDF]](docs/Current_Density_Impedance_Imaging_with_PINNs.pdf)
+[[Journal]](https://www.sciencedirect.com/science/article/pii/S0377042724003698) [[arXiv]](https://arxiv.org/abs/2306.13881) [[PDF]](docs/Current_Density_Impedance_Imaging_with_PINNs.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -197,7 +201,7 @@ With Yuling Jiao, Yanming Lai, Xiliang Lu, Qimeng Quan, and Jerry Zhijian Yang
 
 *CSIAM Transactions on Applied Mathematics* (2022), vol. 3, no. 4, pp. 761–791
 
-[[Journal]](https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html) | [[arXiv]](https://arxiv.org/abs/2111.02009) | [[PDF]](docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf)
+[[Journal]](https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html) [[arXiv]](https://arxiv.org/abs/2111.02009) [[PDF]](docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -229,7 +233,7 @@ With Yuling Jiao, Yanming Lai, Dingwei Li, Xiliang Lu, and Jerry Zhijian Yang
 
 *Communications in Computational Physics* (2022), vol. 31, no. 4, pp. 1020–1048
 
-[[Journal]](https://journal.global-sci.org/intro/article_detail/cicp/20375.html) | [[arXiv]](https://arxiv.org/abs/2103.13330) | [[PDF]](docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf)
+[[Journal]](https://journal.global-sci.org/intro/article_detail/cicp/20375.html) [[arXiv]](https://arxiv.org/abs/2103.13330) [[PDF]](docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf)
 
 <details>
 <summary>Abstract</summary>
