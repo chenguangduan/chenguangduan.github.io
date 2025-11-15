@@ -42,7 +42,7 @@ Scholar: [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ
 
 With Zhao Ding, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
 
-[[arXiv]](https://arxiv.org/abs/2411.13443) | [[PDF]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf) | [[Code]](https://github.com/burning489/SSLS) | [[Slides]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling_slides.pdf)
+[[arXiv]](https://arxiv.org/abs/2411.13443) [[PDF]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf) [[Code]](https://github.com/burning489/SSLS) [[Slides]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling_slides.pdf)
 
 <details>
 <summary>Abstract</summary>
