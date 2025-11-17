@@ -17,9 +17,13 @@ I welcome opportunities for collaboration and discussion. Please feel free to re
 <br>
 
 Address: Room 105, Templergraben 55, 52062 Aachen, Germany  
-Email: [cgduan.math@gmail.com](mailto:cgduan.math@gmail.com) (Preferred) | [duan@igpm.rwth-aachen.de](mailto:duan@igpm.rwth-aachen.de)  
+
+Email: [cgduan.math@gmail.com](mailto:cgduan.math@gmail.com) | [duan@igpm.rwth-aachen.de](mailto:duan@igpm.rwth-aachen.de)  
+
 ORCID: [0009-0009-0815-6281](https://orcid.org/0009-0009-0815-6281)  
+
 Scholar: [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ)
+
 GitHub: [https://github.com/chenguangduan](https://github.com/chenguangduan)
 
 <br>
