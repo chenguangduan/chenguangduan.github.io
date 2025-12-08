@@ -50,6 +50,19 @@ GitHub: [https://github.com/chenguangduan](https://github.com/chenguangduan)
 
 **Ongoing Work**
 
+[Provable Diffusion Posterior Sampling for Bayesian Inversion](docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf)
+
+with Jinyuan Chang, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Cheng Yuan
+
+[[PDF]](docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf) 
+
+<details>
+<summary> Abstract </summary>
+<div class="collapsible-content">
+This paper proposes a novel diffusion-based posterior sampling method within a plug-and-play (PnP) framework. Our approach constructs a probability transport from an easy-to-sample terminal distribution to the target posterior, using a warm-start strategy to initialize the particles. To approximate the posterior score, we develop a Monte Carlo estimator in which particles are generated using Langevin dynamics, avoiding the heuristic approximations commonly used in prior work. The score governing the Langevin dynamics is learned from data, enabling the model to capture rich structural features of the underlying prior distribution. On the theoretical side, we provide non-asymptotic error bounds, showing that the method converges even for complex, multi-modal target posterior distributions. These bounds explicitly quantify the errors arising from posterior score estimation, the warm-start initialization, and the posterior sampling procedure. Our analysis further clarifies how the prior score-matching error and the condition number of the Bayesian inverse problem influence overall performance. Finally, we present numerical experiments demonstrating the effectiveness of the proposed method across a range of inverse problems.
+</div>
+</details> 
+
 [Nonlinear Assimilation via Score-based Sequential Langevin Sampling](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf)
   
 with Zhao Ding, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
