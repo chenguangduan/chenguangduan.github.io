@@ -63,6 +63,8 @@ This paper proposes a novel diffusion-based posterior sampling method within a p
 </div>
 </details> 
 
+<br>
+
 [Nonlinear Assimilation via Score-based Sequential Langevin Sampling](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf)
   
 with Zhao Ding, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
