@@ -16,7 +16,7 @@ I welcome opportunities for collaboration and discussion. Please feel free to re
 
 <br>
 
-Address: Room 464, Im S{\"u}sterfeld 2, 52072 Aachen, Germany  
+Address: Room 464, Im Süsterfeld 2, 52072 Aachen, Germany  
 
 Email: [cgduan.math@gmail.com](mailto:cgduan.math@gmail.com), and [duan@igpm.rwth-aachen.de](mailto:duan@igpm.rwth-aachen.de)  
 
