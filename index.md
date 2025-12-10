@@ -54,7 +54,7 @@ GitHub: [https://github.com/chenguangduan](https://github.com/chenguangduan)
 
 with Jinyuan Chang, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Cheng Yuan
 
-[[arXiv]](https://arxiv.org/abs/2512.08022) [[PDF]](docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf) 
+[[arXiv]](https://arxiv.org/abs/2512.08022) [[PDF]](docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf) [[slides]](docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion_slides.pdf) 
 
 <details>
 <summary> Abstract </summary>
