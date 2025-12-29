@@ -19,12 +19,6 @@ Address: Room 464, Im Süsterfeld 2, 52072 Aachen, Germany
 
 Email: [cgduan.math@gmail.com](mailto:cgduan.math@gmail.com), and [duan@igpm.rwth-aachen.de](mailto:duan@igpm.rwth-aachen.de)  
 
-ORCID: [0009-0009-0815-6281](https://orcid.org/0009-0009-0815-6281)  
-
-Scholar: [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ)
-
-GitHub: [https://github.com/chenguangduan](https://github.com/chenguangduan)
-
 <br>
 
 ## Research interests
