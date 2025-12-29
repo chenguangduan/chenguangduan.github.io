@@ -43,9 +43,53 @@ details > pre > code {
 font-size: 12px;        
 }
 
+.green-text {
+color: #00797c;
+}
+
+.wrapper section {
+font-size: 14pt;
+}
+
 html, body {
 font-size: 14px; 
 line-height: 1.5;
 margin-bottom: 0pt;
 }
+
+h1 {
+font-size: 20pt;
+color: #002554; 
+font-family: 'Georgia', serif;
+}
+
+h2 {
+font-size: 16pt;
+color: #00797c; 
+font-family: 'Georgia', serif;
+margin-bottom: 0pt;  
+}
+
+h3 {
+font-size: 14pt;
+color: #00797c; 
+font-family: 'Georgia', serif;
+}
+
+h4, h5, h6 {
+font-size: 14pt;
+color: #00797c; 
+font-family: 'Georgia', serif;
+}
+
+p {
+font-size: 14px;
+line-height: 1.5;
+margin-bottom: 0pt;  
+}
+
+footer {
+font-size: 14pt;
+}
+
 
