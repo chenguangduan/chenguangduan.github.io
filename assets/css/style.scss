@@ -94,16 +94,40 @@ p {
   margin-bottom: 0pt;
 }
 
-/* Social links */
+/* Header container */
+.site-header {
+  margin-bottom: 30px;
+}
+
+/* Profile photo */
+.site-header img {
+  border-radius: 50%;
+  max-width: 160px;
+  display: block;
+  margin: 0 auto 15px auto;
+}
+
+/* Social information: LEFT aligned */
 .social-links {
-  margin-top: 12px;
+  text-align: left;
   font-size: 14px;
+  max-width: 320px;
+  margin: 0 auto;
 }
 
 .social-links div {
-  margin: 2px 0;
+  margin: 4px 0;
 }
 
 .social-links strong {
   color: #002554;
+}
+
+.social-links a {
+  color: #00797c;
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
 }
