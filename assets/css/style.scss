@@ -8,28 +8,10 @@ border-radius: 50%;
 max-width: 160px;
 }
 
-.wrapper {
-width: 70%;
-max-width: 800px;
-margin: 0 auto;
-}
-
 header {
 display: block;
 text-align: center;
 margin-bottom: 20px;
-}
-
-section {
-width: 100%;
-float: none;
-border-left: none;
-padding-left: 0;
-margin-left: 0;
-}
-
-.sidebar, .sidebar-footer {
-display: none;
 }
 
 details > summary {
@@ -61,67 +43,9 @@ details > pre > code {
 font-size: 12px;        
 }
 
-@media print, screen and (max-width: 960px) {
-div.wrapper {
-width: auto;
-margin: 0;
-}
-
-header, section {
-float: none;
-width: auto;
-}
-}
-
-.view a:contains("View My GitHub Profile") {
-display: none;
-}
-
-.green-text {
-color: #00797c;
-}
-
-.wrapper section {
-font-size: 14pt;
-}
-
 html, body {
 font-size: 14px; 
 line-height: 1.5;
 margin-bottom: 0pt;
 }
 
-h1 {
-font-size: 20pt;
-color: #002554; 
-font-family: 'Georgia', serif;
-}
-
-h2 {
-font-size: 16pt;
-color: #00797c; 
-font-family: 'Georgia', serif;
-margin-bottom: 0pt;  
-}
-
-h3 {
-font-size: 14pt;
-color: #00797c; 
-font-family: 'Georgia', serif;
-}
-
-h4, h5, h6 {
-font-size: 14pt;
-color: #00797c; 
-font-family: 'Georgia', serif;
-}
-
-p {
-font-size: 14px;
-line-height: 1.5;
-margin-bottom: 0pt;  
-}
-
-footer {
-font-size: 14pt;
-}
