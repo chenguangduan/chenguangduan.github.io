@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+img[alt="Logo"] {
+  border-radius: 50%;
+  max-width: 160px;
+}
+
 .wrapper {
 width: 70%;
 max-width: 800px;
