@@ -11,13 +11,7 @@ My research interests lie at the intersection of computational mathematics, stat
 
 <br>
 
-I welcome opportunities for collaboration and discussion. Please feel free to reach out if you share an interest in these topics.
-
-<br>
-
-Address: Room 464, Im Süsterfeld 2, 52072 Aachen, Germany  
-
-Email: [cgduan.math@gmail.com](mailto:cgduan.math@gmail.com), and [duan@igpm.rwth-aachen.de](mailto:duan@igpm.rwth-aachen.de)  
+**I welcome opportunities for collaboration and discussion. Please feel free to reach out if you share an interest in these topics.** 
 
 <br>
 
