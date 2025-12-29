@@ -9,10 +9,10 @@
   <body>
     <div class="wrapper">
 
-      <!-- CUSTOM HEADER -->
-      <header>
+      <!-- HEADER -->
+      <header class="site-header">
         {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo">
+          <img src="{{ site.logo | relative_url }}" alt="Profile photo">
         {% endif %}
 
         <div class="social-links">
@@ -44,7 +44,7 @@
         </div>
       </header>
 
-      <!-- PAGE CONTENT -->
+      <!-- MAIN CONTENT -->
       <section>
         {{ content }}
       </section>
@@ -52,4 +52,3 @@
     </div>
   </body>
 </html>
-
