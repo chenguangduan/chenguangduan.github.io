@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+
+  <body>
+    <div class="wrapper">
+
+      <!-- CUSTOM HEADER -->
+      <header>
+        {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="Logo">
+        {% endif %}
+
+        <div class="social-links">
+          <div>
+            <strong>GitHub:</strong>
+            <a href="https://github.com/chenguangduan" target="_blank">
+              github.com/chenguangduan
+            </a>
+          </div>
+
+          <div>
+            <strong>Google Scholar:</strong>
+            <a href="https://scholar.google.com/citations?user=RpmGgyMAAAAJ" target="_blank">
+              RpmGgyMAAAAJ
+            </a>
+          </div>
+
+          <div>
+            <strong>ORCID:</strong>
+            <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">
+              0000-0000-0000-0000
+            </a>
+          </div>
+
+          <div>
+            <strong>Email:</strong>
+            chenguang.duan@your-university.edu
+          </div>
+        </div>
+      </header>
+
+      <!-- PAGE CONTENT -->
+      <section>
+        {{ content }}
+      </section>
+
+    </div>
+  </body>
+</html>
+
