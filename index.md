@@ -1,4 +1,3 @@
-# Chenguang Duan
 
 I am a postdoctoral researcher in the Institut für Geometrie und Praktische Mathematik at RWTH Aachen University, working with Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. Dr. [Wolfgang Dahmen](https://www.igpm.rwth-aachen.de/team/former/dahmen). 
 
