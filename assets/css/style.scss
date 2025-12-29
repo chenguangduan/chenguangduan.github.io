@@ -3,41 +3,125 @@
 
 @import "{{ site.theme }}";
 
-/* Show header so logo appears */
-header {
-  display: block;
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-/* Hide text, keep photo */
-header h1,
-header p {
-  display: none;
-}
-
-/* Style profile photo */
-header img {
-  border-radius: 50%;
-  max-width: 160px;
-  display: block;
-  margin: 0 auto;
+img[alt="Logo"] {
+border-radius: 50%;
+max-width: 160px;
 }
 
 .wrapper {
-  width: 70%;
-  max-width: 800px;
-  margin: 0 auto;
+width: 70%;
+max-width: 800px;
+margin: 0 auto;
+}
+
+header {
+display: block;
+text-align: center;
+margin-bottom: 20px;
 }
 
 section {
-  width: 100%;
-  float: none;
-  border-left: none;
-  padding-left: 0;
-  margin-left: 0;
+width: 100%;
+float: none;
+border-left: none;
+padding-left: 0;
+margin-left: 0;
 }
 
 .sidebar, .sidebar-footer {
-  display: none;
+display: none;
+}
+
+details > summary {
+font-size: 14px;
+font-weight: normal;
+color: #00797c;
+cursor: pointer;
+}
+
+details > div {
+font-size: 14px;
+color: #333;      
+background-color: #f4f4f4; 
+padding: 15px;            
+border-radius: 5px;     
+}
+
+details > pre {
+font-size: 12px;
+font-family: "Courier New", monospace; 
+background-color: #f4f4f4;            
+border: 1px solid #ddd;              
+padding: 10px;                      
+border-radius: 5px;                
+overflow-x: auto;                 
+}
+
+details > pre > code {
+font-size: 12px;        
+}
+
+@media print, screen and (max-width: 960px) {
+div.wrapper {
+width: auto;
+margin: 0;
+}
+
+header, section {
+float: none;
+width: auto;
+}
+}
+
+.view a:contains("View My GitHub Profile") {
+display: none;
+}
+
+.green-text {
+color: #00797c;
+}
+
+.wrapper section {
+font-size: 14pt;
+}
+
+html, body {
+font-size: 14px; 
+line-height: 1.5;
+margin-bottom: 0pt;
+}
+
+h1 {
+font-size: 20pt;
+color: #002554; 
+font-family: 'Georgia', serif;
+}
+
+h2 {
+font-size: 16pt;
+color: #00797c; 
+font-family: 'Georgia', serif;
+margin-bottom: 0pt;  
+}
+
+h3 {
+font-size: 14pt;
+color: #00797c; 
+font-family: 'Georgia', serif;
+}
+
+h4, h5, h6 {
+font-size: 14pt;
+color: #00797c; 
+font-family: 'Georgia', serif;
+}
+
+p {
+font-size: 14px;
+line-height: 1.5;
+margin-bottom: 0pt;  
+}
+
+footer {
+font-size: 14pt;
 }
