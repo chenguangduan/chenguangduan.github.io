@@ -37,6 +37,33 @@ I welcome opportunities for collaboration and discussion. Please feel free to re
 
 **Ongoing Work**
 
+[Inference-Time Alignment for Diffusion Models via Doob's Matching](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Doobs_Matching.pdf)
+
+with Jinyuan Chang, Yuling Jiao, Yi Xu, and Jerry Zhijian Yang
+
+[[PDF]](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Doobs_Matching.pdf) 
+
+<details>
+<summary> Abstract </summary>
+<div class="collapsible-content">
+Inference-time alignment for diffusion models aims to adapt a pre-trained diffusion model toward a target distribution without retraining the base score network, thereby preserving the generative capacity of the base model while enforcing desired properties at the inference time. A central mechanism for achieving such alignment is guidance, which modifies the sampling dynamics through an additional drift term. In this work, we introduce Doob's matching, a novel framework for guidance estimation grounded in Doob's $h$-transform. Our approach formulates guidance as the gradient of logarithm of an underlying Doob's $h$-function and employs gradient-penalized regression to simultaneously estimate both the $h$-function and its gradient, resulting in a consistent estimator of the guidance. Theoretically, we establish non-asymptotic convergence rates for the estimated guidance. Moreover, we analyze the resulting controllable diffusion processes and prove non-asymptotic convergence guarantees for the generated distributions in the 2-Wasserstein distance.
+</div>
+</details> 
+
+<details>
+<summary> Bibtex </summary>
+<pre><code>
+@misc{chang2025inference,
+title={Inference-Time Alignment for Diffusion Models via {D}oob's Matching}, 
+author={Jinyuan Chang and Chenguang Duan and Yuling Jiao and Yi Xu and Jerry Zhijian Yang},
+year={2026},
+note={},
+}
+</code></pre>
+</details> 
+
+<br>
+
 [Provable Diffusion Posterior Sampling for Bayesian Inversion](docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf)
 
 with Jinyuan Chang, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Cheng Yuan
@@ -54,7 +81,7 @@ This paper proposes a novel diffusion-based posterior sampling method within a p
 <summary> Bibtex </summary>
 <pre><code>
 @misc{chang2025provable,
-title={Provable Diffusion Posterior Sampling for Bayesian Inversion}, 
+title={Provable Diffusion Posterior Sampling for {B}ayesian Inversion}, 
 author={Jinyuan Chang and Chenguang Duan and Yuling Jiao and Ruoxuan Li and Jerry Zhijian Yang and Cheng Yuan},
 year={2025},
 note={arXiv:2512.08022},
