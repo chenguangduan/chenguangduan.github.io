@@ -41,7 +41,7 @@ I welcome opportunities for collaboration and discussion. Please feel free to re
 
 with Jinyuan Chang, Yuling Jiao, Yi Xu, and Jerry Zhijian Yang
 
-[[PDF]](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Doobs_Matching.pdf) 
+[[arXiv]](https://arxiv.org/abs/2601.06514) [[PDF]](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Doobs_Matching.pdf) 
 
 <details>
 <summary> Abstract </summary>
@@ -53,11 +53,11 @@ Inference-time alignment for diffusion models aims to adapt a pre-trained diffus
 <details>
 <summary> Bibtex </summary>
 <pre><code>
-@misc{chang2025inference,
+@misc{chang2026inference,
 title={Inference-Time Alignment for Diffusion Models via {D}oob's Matching}, 
 author={Jinyuan Chang and Chenguang Duan and Yuling Jiao and Yi Xu and Jerry Zhijian Yang},
 year={2026},
-note={},
+eprint={arXiv:2601.06514},
 }
 </code></pre>
 </details> 
