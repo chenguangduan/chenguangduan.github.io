@@ -37,6 +37,33 @@ I welcome opportunities for collaboration and discussion. Please feel free to re
 
 **Ongoing Work**
 
+[Sampling via Stochastic Interpolants by Langevin-based Velocity  and Initialization Estimation in Flow ODEs](docs/Sampling_via_Stochastic_Interpolants_by_Langevin_based_Velocity_and_Initialization_Estimation_in_Flow_ODEs.pdf)
+
+with Yuling Jiao, Gabriele Steidl, Christian Wald, Jerry Zhijian Yang, Ruizhe Zhang
+
+[[PDF]](docs/Sampling_via_Stochastic_Interpolants_by_Langevin_based_Velocity_and_Initialization_Estimation_in_Flow_ODEs.pdf) 
+
+<details>
+<summary> Abstract </summary>
+<div class="collapsible-content">
+We propose a novel method for sampling from unnormalized Boltzmann densities based on a probability-flow ordinary differential equation (ODE) derived from linear stochastic interpolants. The key innovation of our approach is the use of a sequence of Langevin samplers to enable efficient simulation of the flow. Specifically, these Langevin samplers are employed (i) to generate samples from the interpolant distribution at intermediate times and (ii) to construct, starting from these intermediate times, a robust estimator of the velocity field governing the flow ODE. For both applications of the Langevin diffusions, we establish convergence guarantees. Extensive numerical experiments demonstrate the efficiency of the proposed method on challenging multimodal distributions across a range of dimensions, as well as its effectiveness in Bayesian inference tasks.
+</div>
+</details> 
+
+<details>
+<summary> Bibtex </summary>
+<pre><code>
+@misc{duan2026sampling,
+title={Sampling via Stochastic Interpolants by {L}angevin-based Velocity  and Initialization Estimation in Flow ODEs}, 
+author={Chenguang Duan and Yuling Jiao and Gabriele Steidl and Christian Wald and Jerry Zhijian Yang and Ruizhe Zhang},
+year={2026},
+eprint={},
+}
+</code></pre>
+</details> 
+
+<br>
+
 [Inference-Time Alignment for Diffusion Models via Doob's Matching](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Doobs_Matching.pdf)
 
 with Jinyuan Chang, Yuling Jiao, Yi Xu, and Jerry Zhijian Yang
