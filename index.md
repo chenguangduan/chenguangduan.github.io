@@ -41,7 +41,7 @@ I welcome opportunities for collaboration and discussion. Please feel free to re
 
 with Yuling Jiao, Gabriele Steidl, Christian Wald, Jerry Zhijian Yang, Ruizhe Zhang
 
-[[PDF]](docs/Sampling_via_Stochastic_Interpolants_by_Langevin_based_Velocity_and_Initialization_Estimation_in_Flow_ODEs.pdf) 
+[[arXiv]](https://arxiv.org/abs/2601.08527) [[PDF]](docs/Sampling_via_Stochastic_Interpolants_by_Langevin_based_Velocity_and_Initialization_Estimation_in_Flow_ODEs.pdf) 
 
 <details>
 <summary> Abstract </summary>
@@ -57,7 +57,7 @@ We propose a novel method for sampling from unnormalized Boltzmann densities bas
 title={Sampling via Stochastic Interpolants by {L}angevin-based Velocity  and Initialization Estimation in Flow ODEs}, 
 author={Chenguang Duan and Yuling Jiao and Gabriele Steidl and Christian Wald and Jerry Zhijian Yang and Ruizhe Zhang},
 year={2026},
-eprint={},
+eprint={arXiv:2601.08527},
 }
 </code></pre>
 </details> 
