@@ -39,7 +39,7 @@ I welcome opportunities for collaboration and discussion. Please feel free to re
 
 [Sampling via Stochastic Interpolants by Langevin-based Velocity  and Initialization Estimation in Flow ODEs](docs/Sampling_via_Stochastic_Interpolants_by_Langevin_based_Velocity_and_Initialization_Estimation_in_Flow_ODEs.pdf)
 
-with Yuling Jiao, Gabriele Steidl, Christian Wald, Jerry Zhijian Yang, Ruizhe Zhang
+with Yuling Jiao, Gabriele Steidl, Christian Wald, Jerry Zhijian Yang, and Ruizhe Zhang
 
 [[arXiv]](https://arxiv.org/abs/2601.08527) [[PDF]](docs/Sampling_via_Stochastic_Interpolants_by_Langevin_based_Velocity_and_Initialization_Estimation_in_Flow_ODEs.pdf) 
 
