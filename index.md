@@ -37,6 +37,33 @@ I welcome opportunities for collaboration and discussion. Please feel free to re
 
 **Ongoing Work**
 
+[Preconditioning and Numerical Stability in Neural Network Training for Parametric PDEs](docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs.pdf)
+
+with Markus Bachmayr, Wolfgang Dahmen, and Mathias Oster
+
+[[arXiv]](https://arxiv.org/abs/2601.23185) [[PDF]](docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs.pdf) 
+
+<details>
+<summary> Abstract </summary>
+<div class="collapsible-content">
+In the context of training neural network-based approximations of solutions of parameter-dependent PDEs, we investigate the effect of preconditioning via well-conditioned frame representations of operators and demonstrate a significant improvement on the performance of standard training methods. We also observe that standard representations of preconditioned matrices are insufficient for obtaining numerical stability and propose a generally applicable form of stable representations that enables computations with single- and half-precision floating point numbers without loss of precision.
+</div>
+</details> 
+
+<details>
+<summary> Bibtex </summary>
+<pre><code>
+@misc{bachmayr2026preconditioning,
+title={Preconditioning and Numerical Stability in Neural Network Training for Parametric {PDEs}}, 
+author={Markus Bachmayr and Wolfgang Dahmen and Chenguang Duan and Mathias Oster},
+year={2026},
+note={arXiv:2601.23185},
+}
+</code></pre>
+</details> 
+
+<br>
+
 [Sampling via Stochastic Interpolants by Langevin-based Velocity  and Initialization Estimation in Flow ODEs](docs/Sampling_via_Stochastic_Interpolants_by_Langevin_based_Velocity_and_Initialization_Estimation_in_Flow_ODEs.pdf)
 
 with Yuling Jiao, Gabriele Steidl, Christian Wald, Jerry Zhijian Yang, and Ruizhe Zhang
