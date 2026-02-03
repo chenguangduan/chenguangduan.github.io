@@ -91,7 +91,7 @@ eprint={arXiv:2601.08527},
 
 <br>
 
-[Inference-Time Alignment for Diffusion Models via Doob's Matching](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Doobs_Matching.pdf)
+[Inference-Time Alignment for Diffusion Models via Variationally Stable Doob's Matching](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Doobs_Matching.pdf)
 
 with Jinyuan Chang, Yuling Jiao, Yi Xu, and Jerry Zhijian Yang
 
@@ -100,7 +100,7 @@ with Jinyuan Chang, Yuling Jiao, Yi Xu, and Jerry Zhijian Yang
 <details>
 <summary> Abstract </summary>
 <div class="collapsible-content">
-Inference-time alignment for diffusion models aims to adapt a pre-trained diffusion model toward a target distribution without retraining the base score network, thereby preserving the generative capacity of the base model while enforcing desired properties at the inference time. A central mechanism for achieving such alignment is guidance, which modifies the sampling dynamics through an additional drift term. In this work, we introduce Doob's matching, a novel framework for guidance estimation grounded in Doob's $h$-transform. Our approach formulates guidance as the gradient of logarithm of an underlying Doob's $h$-function and employs gradient-penalized regression to simultaneously estimate both the $h$-function and its gradient, resulting in a consistent estimator of the guidance. Theoretically, we establish non-asymptotic convergence rates for the estimated guidance. Moreover, we analyze the resulting controllable diffusion processes and prove non-asymptotic convergence guarantees for the generated distributions in the 2-Wasserstein distance.
+Inference-time alignment for diffusion models aims to adapt a pre-trained reference diffusion model toward a target distribution without retraining the reference score network, thereby preserving the generative capacity of the reference model while enforcing desired properties at the inference time. A central mechanism for achieving such alignment is guidance, which modifies the sampling dynamics through an additional drift term. In this work, we introduce variationally stable Doob's matching, a novel framework for provable guidance estimation grounded in Doob's $h$-transform. Our approach formulates guidance as the gradient of logarithm of an underlying Doob's $h$-function and employs gradient-regularized regression to simultaneously estimate both the $h$-function and its gradient, resulting in a consistent estimator of the guidance. Theoretically, we establish non-asymptotic convergence rates for the estimated guidance. Moreover, we analyze the resulting controllable diffusion processes and prove non-asymptotic convergence guarantees for the generated distributions in the 2-Wasserstein distance. Finally, we show that variationally stable guidance estimators are adaptive to unknown low dimensionality, effectively mitigating the curse of dimensionality under low-dimensional subspace assumptions.
 </div>
 </details> 
 
@@ -108,7 +108,7 @@ Inference-time alignment for diffusion models aims to adapt a pre-trained diffus
 <summary> Bibtex </summary>
 <pre><code>
 @misc{chang2026inference,
-title={Inference-Time Alignment for Diffusion Models via {D}oob's Matching}, 
+title={Inference-Time Alignment for Diffusion Models via variationally stable {D}oob's Matching}, 
 author={Jinyuan Chang and Chenguang Duan and Yuling Jiao and Yi Xu and Jerry Zhijian Yang},
 year={2026},
 eprint={arXiv:2601.06514},
