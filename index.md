@@ -91,11 +91,11 @@ eprint={arXiv:2601.08527},
 
 <br>
 
-[Inference-Time Alignment for Diffusion Models via Variationally Stable Doob's Matching](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Doobs_Matching.pdf)
+[Inference-Time Alignment for Diffusion Models via Variationally Stable Doob's Matching](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Variationally_Stable_Doobs_Matching.pdf)
 
 with Jinyuan Chang, Yuling Jiao, Yi Xu, and Jerry Zhijian Yang
 
-[[arXiv]](https://arxiv.org/abs/2601.06514) [[PDF]](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Doobs_Matching.pdf) 
+[[arXiv]](https://arxiv.org/abs/2601.06514) [[PDF]](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Variationally_Stable_Doobs_Matching.pdf) 
 
 <details>
 <summary> Abstract </summary>
@@ -108,7 +108,7 @@ Inference-time alignment for diffusion models aims to adapt a pre-trained refere
 <summary> Bibtex </summary>
 <pre><code>
 @misc{chang2026inference,
-title={Inference-Time Alignment for Diffusion Models via variationally stable {D}oob's Matching}, 
+title={Inference-Time Alignment for Diffusion Models via Variationally Stable {D}oob's Matching}, 
 author={Jinyuan Chang and Chenguang Duan and Yuling Jiao and Yi Xu and Jerry Zhijian Yang},
 year={2026},
 eprint={arXiv:2601.06514},
