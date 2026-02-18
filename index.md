@@ -41,7 +41,7 @@ I welcome opportunities for collaboration and discussion. Please feel free to re
 
 with Markus Bachmayr, Wolfgang Dahmen, and Mathias Oster
 
-[[arXiv]](https://arxiv.org/abs/2601.23185) [[PDF]](docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs.pdf) 
+[[arXiv]](https://arxiv.org/abs/2601.23185) [[PDF]](docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs.pdf) [[code]](https://zenodo.org/records/18681906)
 
 <details>
 <summary> Abstract </summary>
