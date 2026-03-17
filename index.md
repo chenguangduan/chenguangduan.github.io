@@ -68,7 +68,7 @@ note={arXiv:2601.23185},
 
 with Yuling Jiao, Gabriele Steidl, Christian Wald, Jerry Zhijian Yang, and Ruizhe Zhang
 
-[[arXiv]](https://arxiv.org/abs/2601.08527) [[PDF]](docs/Sampling_via_Stochastic_Interpolants_by_Langevin_based_Velocity_and_Initialization_Estimation_in_Flow_ODEs.pdf) 
+[[arXiv]](https://arxiv.org/abs/2601.08527) [[PDF]](https://arxiv.org/pdf/2601.08527)
 
 <details>
 <summary> Abstract </summary>
