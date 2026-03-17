@@ -64,7 +64,7 @@ note={arXiv:2601.23185},
 
 <br>
 
-[Sampling via Stochastic Interpolants by Langevin-based Velocity  and Initialization Estimation in Flow ODEs](docs/Sampling_via_Stochastic_Interpolants_by_Langevin_based_Velocity_and_Initialization_Estimation_in_Flow_ODEs.pdf)
+[Sampling via Stochastic Interpolants by Langevin-based Velocity  and Initialization Estimation in Flow ODEs](https://arxiv.org/pdf/2601.08527)
 
 with Yuling Jiao, Gabriele Steidl, Christian Wald, Jerry Zhijian Yang, and Ruizhe Zhang
 
@@ -73,7 +73,7 @@ with Yuling Jiao, Gabriele Steidl, Christian Wald, Jerry Zhijian Yang, and Ruizh
 <details>
 <summary> Abstract </summary>
 <div class="collapsible-content">
-We propose a novel method for sampling from unnormalized Boltzmann densities based on a probability-flow ordinary differential equation (ODE) derived from linear stochastic interpolants. The key innovation of our approach is the use of a sequence of Langevin samplers to enable efficient simulation of the flow. Specifically, these Langevin samplers are employed (i) to generate samples from the interpolant distribution at intermediate times and (ii) to construct, starting from these intermediate times, a robust estimator of the velocity field governing the flow ODE. For both applications of the Langevin diffusions, we establish convergence guarantees. Extensive numerical experiments demonstrate the efficiency of the proposed method on challenging multimodal distributions across a range of dimensions, as well as its effectiveness in Bayesian inference tasks.
+We propose a novel method for sampling from unnormalized Boltzmann densities based on a probability flow ordinary differential equation (ODE) derived from linear stochastic interpolants. The key innovation of our approach is the use of a sequence of Langevin samplers to enable efficient simulation of the flow. Specifically, these Langevin samplers are employed (i) to generate samples from the interpolant distribution at intermediate times and (ii) to construct, starting from these intermediate times, a robust estimator of the velocity field governing the probability flow ODE. Theoretically, we provide convergence guarantees for both Langevin components, and establish a non-asymptotic convergence rate for the probability flow ODE. Extensive numerical experiments demonstrate the efficiency of the proposed method on challenging multimodal distributions across a range of dimensions, as well as its effectiveness in Bayesian inference tasks.
 </div>
 </details> 
 
@@ -81,7 +81,7 @@ We propose a novel method for sampling from unnormalized Boltzmann densities bas
 <summary> Bibtex </summary>
 <pre><code>
 @misc{duan2026sampling,
-title={Sampling via Stochastic Interpolants by {L}angevin-based Velocity  and Initialization Estimation in Flow ODEs}, 
+title={Sampling via Stochastic Interpolants by {L}angevin-based Velocity and Initialization Estimation in Flow {ODE}s}, 
 author={Chenguang Duan and Yuling Jiao and Gabriele Steidl and Christian Wald and Jerry Zhijian Yang and Ruizhe Zhang},
 year={2026},
 eprint={arXiv:2601.08527},
