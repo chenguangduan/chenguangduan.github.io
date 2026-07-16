@@ -178,7 +178,7 @@ note={arXiv:2405.05512},
   
 with Zhao Ding, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
 
-*IEEE Transactions on Information Theory* (2026+)
+*IEEE Transactions on Information Theory* (2026)
 
 [[arXiv]](https://arxiv.org/abs/2411.13443) [[PDF]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf) [[code]](https://github.com/burning489/SSLS)
 
