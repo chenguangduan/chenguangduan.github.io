@@ -84,7 +84,7 @@ We propose a novel method for sampling from unnormalized Boltzmann densities bas
 title={Sampling via Stochastic Interpolants by {L}angevin-based Velocity and Initialization Estimation in Flow {ODE}s}, 
 author={Chenguang Duan and Yuling Jiao and Gabriele Steidl and Christian Wald and Jerry Zhijian Yang and Ruizhe Zhang},
 year={2026},
-eprint={arXiv:2601.08527},
+note={arXiv:2601.08527},
 }
 </code></pre>
 </details> 
@@ -111,7 +111,7 @@ Inference-time alignment for diffusion models aims to adapt a pre-trained refere
 title={Inference-Time Alignment for Diffusion Models via Variationally Stable {D}oob's Matching}, 
 author={Jinyuan Chang and Chenguang Duan and Yuling Jiao and Yi Xu and Jerry Zhijian Yang},
 year={2026},
-eprint={arXiv:2601.06514},
+note={arXiv:2601.06514},
 }
 </code></pre>
 </details> 
@@ -139,33 +139,6 @@ title={Provable Diffusion Posterior Sampling for {B}ayesian Inversion},
 author={Jinyuan Chang and Chenguang Duan and Yuling Jiao and Ruoxuan Li and Jerry Zhijian Yang and Cheng Yuan},
 year={2025},
 note={arXiv:2512.08022},
-}
-</code></pre>
-</details> 
-
-<br>
-
-[Nonlinear Assimilation via Score-based Sequential Langevin Sampling](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf)
-  
-with Zhao Ding, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
-
-[[arXiv]](https://arxiv.org/abs/2411.13443) [[PDF]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf) [[code]](https://github.com/burning489/SSLS)
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-This paper introduces score-based sequential Langevin sampling (SSLS), a novel approach to nonlinear data assimilation within a recursive Bayesian filtering framework. The proposed method decomposes the assimilation process into alternating prediction and update steps, using dynamic models for state prediction and incorporating observational data via score-based Langevin Monte Carlo during the updates. To overcome inherent challenges in highly non-log-concave posterior sampling, we integrate an annealing strategy into the update mechanism. Theoretically, we establish convergence guarantees for SSLS in total variation (TV) distance, yielding concrete insights into the algorithm's error behavior with respect to key hyperparameters. Crucially, our derived error bounds demonstrate the asymptotic stability of SSLS, guaranteeing that local posterior sampling errors do not accumulate indefinitely over time. Extensive numerical experiments across challenging scenarios, including high-dimensional systems, strong nonlinearity, and sparse observations, highlight the robust performance of the proposed method. Furthermore, SSLS effectively quantifies the uncertainty associated with state estimates, rendering it particularly valuable for reliable error calibration.
-</div>
-</details> 
-
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@misc{ding2025nonlinear,
-title={Nonlinear Assimilation via Score-based Sequential {S}angevin Sampling}, 
-author={Zhao Ding and Chenguang Duan and Yuling Jiao and Jerry Zhijian Yang and Cheng Yuan and Pingwen Zhang},
-year={2025},
-note={arXiv:2411.13443},
 }
 </code></pre>
 </details> 
@@ -200,6 +173,35 @@ note={arXiv:2405.05512},
 <br>
 
 **Selected Publications**
+
+[Nonlinear Assimilation via Score-based Sequential Langevin Sampling](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf)
+  
+with Zhao Ding, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
+
+*IEEE Transactions on Information Theory* (2026+)
+
+[[arXiv]](https://arxiv.org/abs/2411.13443) [[PDF]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf) [[code]](https://github.com/burning489/SSLS)
+
+<details>
+<summary> Abstract </summary>
+<div class="collapsible-content">
+This paper introduces score-based sequential Langevin sampling (SSLS), a novel approach to nonlinear data assimilation within a recursive Bayesian filtering framework. The proposed method decomposes the assimilation process into alternating prediction and update steps, using dynamic models for state prediction and incorporating observational data via score-based Langevin Monte Carlo during the updates. To overcome inherent challenges in highly non-log-concave posterior sampling, we integrate an annealing strategy into the update mechanism. Theoretically, we establish convergence guarantees for SSLS in total variation (TV) distance, yielding concrete insights into the algorithm's error behavior with respect to key hyperparameters. Crucially, our derived error bounds demonstrate the asymptotic stability of SSLS, guaranteeing that local posterior sampling errors do not accumulate indefinitely over time. Extensive numerical experiments across challenging scenarios, including high-dimensional systems, strong nonlinearity, and sparse observations, highlight the robust performance of the proposed method. Furthermore, SSLS effectively quantifies the uncertainty associated with state estimates, rendering it particularly valuable for reliable error calibration.
+</div>
+</details> 
+
+<details>
+<summary> Bibtex </summary>
+<pre><code>
+@article{ding2025nonlinear,
+title={Nonlinear Assimilation via Score-based Sequential {S}angevin Sampling}, 
+author={Zhao Ding and Chenguang Duan and Yuling Jiao and Jerry Zhijian Yang and Cheng Yuan and Pingwen Zhang},
+year={2026+},
+journal={IEEE Transactions on Information Theory}, 
+}
+</code></pre>
+</details> 
+
+<br>
 
 [Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network](docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf) 
 
