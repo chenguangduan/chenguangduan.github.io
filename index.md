@@ -180,23 +180,23 @@ with Zhao Ding, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
 
 *IEEE Transactions on Information Theory* (2026)
 
-[[arXiv]](https://arxiv.org/abs/2411.13443) [[PDF]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf) [[code]](https://github.com/burning489/SSLS)
+[[Journal]](https://ieeexplore.ieee.org/document/11616600/) [[arXiv]](https://arxiv.org/abs/2411.13443) [[PDF]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf) [[code]](https://github.com/burning489/SSLS)
 
 <details>
 <summary> Abstract </summary>
 <div class="collapsible-content">
-This paper introduces score-based sequential Langevin sampling (SSLS), a novel approach to nonlinear data assimilation within a recursive Bayesian filtering framework. The proposed method decomposes the assimilation process into alternating prediction and update steps, using dynamic models for state prediction and incorporating observational data via score-based Langevin Monte Carlo during the updates. To overcome inherent challenges in highly non-log-concave posterior sampling, we integrate an annealing strategy into the update mechanism. Theoretically, we establish convergence guarantees for SSLS in total variation (TV) distance, yielding concrete insights into the algorithm's error behavior with respect to key hyperparameters. Crucially, our derived error bounds demonstrate the asymptotic stability of SSLS, guaranteeing that local posterior sampling errors do not accumulate indefinitely over time. Extensive numerical experiments across challenging scenarios, including high-dimensional systems, strong nonlinearity, and sparse observations, highlight the robust performance of the proposed method. Furthermore, SSLS effectively quantifies the uncertainty associated with state estimates, rendering it particularly valuable for reliable error calibration.
+This paper introduces score-based sequential Langevin sampling (SSLS), a novel approach to nonlinear data assimilation within a recursive Bayesian filtering framework. The proposed method decomposes the assimilation process into alternating prediction and update steps, using dynamic models for state prediction and incorporating observational data via score-based Langevin Monte Carlo during the updates. To overcome inherent challenges in highly non-log-concave posterior sampling, we integrate an annealing strategy into the update mechanism. Theoretically, we establish convergence guarantees for SSLS in total variation (TV) and Wasserstein distances, yielding concrete insights into the algorithm’s error behavior with respect to key hyper-parameters. Crucially, our derived error bounds demonstrate the asymptotic stability of SSLS, guaranteeing that local posterior sampling errors do not accumulate indefinitely over time. Extensive numerical experiments across challenging scenarios, including high-dimensional systems, strong nonlinearity, and sparse observations, highlight the robust performance of the proposed method. Furthermore, SSLS effectively quantifies the uncertainty associated with state estimates, rendering it particularly valuable for reliable error calibration.
 </div>
 </details> 
 
 <details>
 <summary> Bibtex </summary>
 <pre><code>
-@article{ding2025nonlinear,
-title={Nonlinear Assimilation via Score-based Sequential {S}angevin Sampling}, 
-author={Zhao Ding and Chenguang Duan and Yuling Jiao and Jerry Zhijian Yang and Cheng Yuan and Pingwen Zhang},
-year={2026+},
+@article{ding2026nonlinear,
+author={Ding, Zhao and Duan, Chenguang and Jiao, Yuling and Yang, Jerry Zhijian and Yuan, Cheng and Zhang, Pingwen},
 journal={IEEE Transactions on Information Theory}, 
+title={Nonlinear Assimilation via Score-based Sequential {L}angevin Sampling}, 
+year={2026},
 }
 </code></pre>
 </details> 
