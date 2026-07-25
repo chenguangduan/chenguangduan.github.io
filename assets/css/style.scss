@@ -3,139 +3,249 @@
 
 @import "{{ site.theme }}";
 
-/* Profile photo */
-header img {
-  border-radius: 50%;
-  max-width: 160px;
-  display: block;
-  margin: 0 auto 6px auto;
+:root {
+  --text: #30343b;
+  --muted: #5f6670;
+  --line: #d9dde2;
+  --paper-blue: #1f5f99;
 }
 
-/* Header layout */
-header {
-  display: block;
-  text-align: center;
-  margin-bottom: 20px;
+* {
+  box-sizing: border-box;
 }
 
-/* Details styling */
-details > summary {
-  font-size: 14px;
-  font-weight: normal;
-  color: #00797c;
-  cursor: pointer;
+html {
+  scroll-behavior: smooth;
 }
 
-details > div {
-  font-size: 14px;
-  color: #333;
-  background-color: #f4f4f4;
-  padding: 15px;
-  border-radius: 5px;
+body {
+  margin: 0;
+  padding: 0;
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.62;
+  background: #fff;
 }
 
-details > pre {
-  font-size: 12px;
-  font-family: "Courier New", monospace;
-  background-color: #f4f4f4;
-  border: 1px solid #ddd;
-  padding: 10px;
-  border-radius: 5px;
-  overflow-x: auto;
+div.wrapper {
+  width: 960px;
+  margin: 0 auto;
+  padding: 48px 20px 64px;
 }
 
-details > pre > code {
-  font-size: 12px;
+div.wrapper::after {
+  display: table;
+  clear: both;
+  content: "";
 }
 
-.green-text {
-  color: #00797c;
+.site-header {
+  position: fixed;
+  width: 245px;
+  padding: 0;
+  text-align: left;
 }
 
-/* Typography */
-.wrapper section {
-  font-size: 14pt;
-}
-
-html, body {
-  font-size: 14px;
-  line-height: 1.5;
-  margin-bottom: 0pt;
-}
-
-h1 {
-  font-size: 20pt;
-  color: #002554;
-  font-family: 'Georgia', serif;
-}
-
-h2 {
-  font-size: 16pt;
-  color: #00797c;
-  font-family: 'Georgia', serif;
-  margin-bottom: 0pt;
-}
-
-h3 {
-  font-size: 14pt;
-  color: #00797c;
-  font-family: 'Georgia', serif;
-}
-
-h4, h5, h6 {
-  font-size: 14pt;
-  color: #00797c;
-  font-family: 'Georgia', serif;
-}
-
-p {
-  font-size: 14px;
-  line-height: 1.5;
-  margin-bottom: 0pt;
+.site-content {
+  float: right;
+  width: 640px;
+  padding-bottom: 40px;
 }
 
 .site-title {
-  font-size: 22pt;
-  color: #002554;
-  font-family: 'Georgia', serif;
-  text-align: center;
-  margin-bottom: 12px;
+  margin: 0 0 18px;
+  color: var(--text);
+  font-size: 30px;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
 }
 
-/* Header container */
-.site-header {
-  margin-bottom: 30px;
-}
-
-/* Profile photo */
-.site-header img {
-  border-radius: 50%;
-  max-width: 160px;
-  display: block;
-  margin: 0 auto 15px auto;
-}
-
-/* Social information: LEFT aligned */
-.social-links {
-  text-align: left;
-  font-size: 14px;
-  max-width: 320px;
-  margin: 0 auto;
-}
-
-.social-links div {
-  margin: 4px 0;
-}
-
-.social-links strong {
-  color: #002554;
-}
-
-.social-links a {
-  color: #00797c;
+.site-title a {
   text-decoration: none;
 }
 
-.social-links a:hover {
+.profile-photo {
+  display: block;
+  width: 160px;
+  height: 160px;
+  margin: 0 0 18px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.research-area {
+  margin: 0 0 12px;
+  font-weight: 600;
+}
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px 14px;
+  margin-bottom: 22px;
+  font-size: 14px;
+}
+
+.contact-details {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.contact-details p {
+  margin: 0 0 14px;
+}
+
+.contact-details strong {
+  color: var(--text);
+}
+
+.site-content > p:first-child {
+  margin-top: 0;
+}
+
+.site-content p {
+  margin: 0 0 15px;
+}
+
+.site-content h2 {
+  margin: 34px 0 16px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid var(--line);
+  color: var(--text);
+  font-size: 21px;
+  font-weight: 650;
+  line-height: 1.35;
+}
+
+.site-content h3 {
+  margin: 25px 0 15px;
+  color: var(--text);
+  font-size: 17px;
+  font-weight: 650;
+  line-height: 1.4;
+}
+
+.site-content ul {
+  margin: 0 0 18px;
+  padding-left: 22px;
+}
+
+.site-content li {
+  margin: 3px 0;
+}
+
+/* Ordinary links use the surrounding text color. */
+a,
+a:visited {
+  color: inherit;
   text-decoration: underline;
+  text-decoration-color: #a5aab0;
+  text-underline-offset: 2px;
+}
+
+a:hover,
+a:focus {
+  color: inherit;
+  text-decoration-color: currentColor;
+}
+
+/* Paper titles are the only links with a color treatment. */
+.paper-title a,
+.paper-title a:visited,
+.paper-title a:hover,
+.paper-title a:focus {
+  color: var(--paper-blue);
+}
+
+.publication-note {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.publication {
+  margin: 0 0 24px;
+}
+
+.publication p {
+  margin: 2px 0;
+}
+
+.paper-title {
+  font-size: 16px;
+  font-weight: 650;
+  line-height: 1.45;
+}
+
+.paper-title a {
+  text-decoration: none;
+}
+
+.paper-title a:hover,
+.paper-title a:focus {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.paper-authors,
+.paper-venue,
+.paper-award {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.paper-award strong {
+  color: var(--text);
+}
+
+.paper-links {
+  padding-top: 2px;
+  font-size: 14px;
+}
+
+@media print, screen and (max-width: 960px) {
+  div.wrapper {
+    width: auto;
+    max-width: 700px;
+    padding: 30px 22px 50px;
+  }
+
+  .site-header {
+    position: static;
+    width: auto;
+    margin-bottom: 36px;
+    padding-bottom: 28px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .site-content {
+    float: none;
+    width: auto;
+  }
+}
+
+@media print, screen and (max-width: 520px) {
+  body {
+    font-size: 15px;
+  }
+
+  div.wrapper {
+    padding: 24px 18px 42px;
+  }
+
+  .site-title {
+    font-size: 27px;
+  }
+
+  .profile-photo {
+    width: 140px;
+    height: 140px;
+  }
+
+  .site-content h2 {
+    font-size: 20px;
+  }
 }

@@ -1,371 +1,99 @@
+---
+layout: default
+title: Chenguang Duan
+description: Academic homepage of Chenguang Duan, a researcher in applied mathematics, scientific machine learning, generative models, inverse problems, and learning theory.
+---
 
-I am a postdoctoral researcher in the Institut für Geometrie und Praktische Mathematik at RWTH Aachen University, working with Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. Dr. [Wolfgang Dahmen](https://www.igpm.rwth-aachen.de/team/former/dahmen). 
+I am a postdoctoral researcher at the Institut für Geometrie und Praktische Mathematik, RWTH Aachen University, working with Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. Dr. [Wolfgang Dahmen](https://www.igpm.rwth-aachen.de/team/former/dahmen).
 
-<br>
+Previously, I obtained my Ph.D. from the School of Mathematics and Statistics at Wuhan University, where I was advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm) and Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I also earned my Bachelor's degree in Mathematics from Wuhan University.
 
-Previously, I obtained my Ph.D. from the School of Mathematics and Statistics at Wuhan University, where I was advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm) and Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I earned a Bachelor's degree in Mathematics from Wuhan University as well.
-
-<br>
-
-My research interests lie at the intersection of computational mathematics, statistics, and machine learning, with a particular focus on scientific machine learning, generative models, and learning theory.
-
-<br>
-
-I welcome opportunities for collaboration and discussion. Please feel free to reach out if you share an interest in these topics.
-
-<br>
+My research lies at the intersection of computational mathematics, statistics, and machine learning, with a focus on scientific machine learning, generative models, inverse problems, and learning theory. I welcome opportunities for collaboration and discussion.
 
 ## Research interests
----
 
-* Scientific machine learning
+- Scientific machine learning
+- Generative models and sampling
+- Inverse problems
+- Statistical learning and deep learning theory
 
-* Generative models and sampling
-  
-* Inverse problems
+## Publications
 
-* Statistical learning and deep learning theory
-  
-<br>
+<p class="publication-note"><em>Authors are listed alphabetically in all publications. See <a href="https://scholar.google.com/citations?user=RpmGgyMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> for the complete list.</em></p>
 
-## Research
----
+### Ongoing work
 
-*All publications have authors listed in alphabetical order. See [Google Scholar](https://scholar.google.com/citations?user=RpmGgyMAAAAJ) for a complete list.*
-
-<br>
-
-**Ongoing Work**
-
-[Preconditioning and Numerical Stability in Neural Network Training for Parametric PDEs](docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs.pdf)
-
-with Markus Bachmayr, Wolfgang Dahmen, and Mathias Oster
-
-[[arXiv]](https://arxiv.org/abs/2601.23185) [[PDF]](docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs.pdf) [[code]](https://zenodo.org/records/18681906) [[slides]](docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs_slides.pdf) 
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-In the context of training neural network-based approximations of solutions of parameter-dependent PDEs, we investigate the effect of preconditioning via well-conditioned frame representations of operators and demonstrate a significant improvement on the performance of standard training methods. We also observe that standard representations of preconditioned matrices are insufficient for obtaining numerical stability and propose a generally applicable form of stable representations that enables computations with single- and half-precision floating point numbers without loss of precision.
+<div class="publication">
+  <p class="paper-title"><a href="docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs.pdf">Preconditioning and Numerical Stability in Neural Network Training for Parametric PDEs</a></p>
+  <p class="paper-authors">with Markus Bachmayr, Wolfgang Dahmen, and Mathias Oster</p>
+  <p class="paper-links"><a href="https://arxiv.org/abs/2601.23185">arXiv</a> · <a href="docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs.pdf">PDF</a> · <a href="https://zenodo.org/records/18681906">Code</a> · <a href="docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs_slides.pdf">Slides</a></p>
 </div>
-</details> 
 
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@misc{bachmayr2026preconditioning,
-title={Preconditioning and Numerical Stability in Neural Network Training for Parametric {PDEs}}, 
-author={Markus Bachmayr and Wolfgang Dahmen and Chenguang Duan and Mathias Oster},
-year={2026},
-note={arXiv:2601.23185},
-}
-</code></pre>
-</details> 
-
-<br>
-
-[Sampling via Stochastic Interpolants by Langevin-based Velocity  and Initialization Estimation in Flow ODEs](https://arxiv.org/pdf/2601.08527)
-
-with Yuling Jiao, Gabriele Steidl, Christian Wald, Jerry Zhijian Yang, and Ruizhe Zhang
-
-[[arXiv]](https://arxiv.org/abs/2601.08527) [[PDF]](https://arxiv.org/pdf/2601.08527)
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-We propose a novel method for sampling from unnormalized Boltzmann densities based on a probability flow ordinary differential equation (ODE) derived from linear stochastic interpolants. The key innovation of our approach is the use of a sequence of Langevin samplers to enable efficient simulation of the flow. Specifically, these Langevin samplers are employed (i) to generate samples from the interpolant distribution at intermediate times and (ii) to construct, starting from these intermediate times, a robust estimator of the velocity field governing the probability flow ODE. Theoretically, we provide convergence guarantees for both Langevin components, and establish a non-asymptotic convergence rate for the probability flow ODE. Extensive numerical experiments demonstrate the efficiency of the proposed method on challenging multimodal distributions across a range of dimensions, as well as its effectiveness in Bayesian inference tasks.
+<div class="publication">
+  <p class="paper-title"><a href="https://arxiv.org/pdf/2601.08527">Sampling via Stochastic Interpolants by Langevin-based Velocity and Initialization Estimation in Flow ODEs</a></p>
+  <p class="paper-authors">with Yuling Jiao, Gabriele Steidl, Christian Wald, Jerry Zhijian Yang, and Ruizhe Zhang</p>
+  <p class="paper-links"><a href="https://arxiv.org/abs/2601.08527">arXiv</a> · <a href="https://arxiv.org/pdf/2601.08527">PDF</a></p>
 </div>
-</details> 
 
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@misc{duan2026sampling,
-title={Sampling via Stochastic Interpolants by {L}angevin-based Velocity and Initialization Estimation in Flow {ODE}s}, 
-author={Chenguang Duan and Yuling Jiao and Gabriele Steidl and Christian Wald and Jerry Zhijian Yang and Ruizhe Zhang},
-year={2026},
-note={arXiv:2601.08527},
-}
-</code></pre>
-</details> 
-
-<br>
-
-[Inference-Time Alignment for Diffusion Models via Variationally Stable Doob's Matching](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Variationally_Stable_Doobs_Matching.pdf)
-
-with Jinyuan Chang, Yuling Jiao, Yi Xu, and Jerry Zhijian Yang
-
-[[arXiv]](https://arxiv.org/abs/2601.06514) [[PDF]](docs/Inference_Time_Alignment_for_Diffusion_Models_via_Variationally_Stable_Doobs_Matching.pdf) 
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-Inference-time alignment for diffusion models aims to adapt a pre-trained reference diffusion model toward a target distribution without retraining the reference score network, thereby preserving the generative capacity of the reference model while enforcing desired properties at the inference time. A central mechanism for achieving such alignment is guidance, which modifies the sampling dynamics through an additional drift term. In this work, we introduce variationally stable Doob's matching, a novel framework for provable guidance estimation grounded in Doob's $h$-transform. Our approach formulates guidance as the gradient of logarithm of an underlying Doob's $h$-function and employs gradient-regularized regression to simultaneously estimate both the $h$-function and its gradient, resulting in a consistent estimator of the guidance. Theoretically, we establish non-asymptotic convergence rates for the estimated guidance. Moreover, we analyze the resulting controllable diffusion processes and prove non-asymptotic convergence guarantees for the generated distributions in the 2-Wasserstein distance. Finally, we show that variationally stable guidance estimators are adaptive to unknown low dimensionality, effectively mitigating the curse of dimensionality under low-dimensional subspace assumptions.
+<div class="publication">
+  <p class="paper-title"><a href="docs/Inference_Time_Alignment_for_Diffusion_Models_via_Variationally_Stable_Doobs_Matching.pdf">Inference-Time Alignment for Diffusion Models via Variationally Stable Doob's Matching</a></p>
+  <p class="paper-authors">with Jinyuan Chang, Yuling Jiao, Yi Xu, and Jerry Zhijian Yang</p>
+  <p class="paper-links"><a href="https://arxiv.org/abs/2601.06514">arXiv</a> · <a href="docs/Inference_Time_Alignment_for_Diffusion_Models_via_Variationally_Stable_Doobs_Matching.pdf">PDF</a></p>
 </div>
-</details> 
 
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@misc{chang2026inference,
-title={Inference-Time Alignment for Diffusion Models via Variationally Stable {D}oob's Matching}, 
-author={Jinyuan Chang and Chenguang Duan and Yuling Jiao and Yi Xu and Jerry Zhijian Yang},
-year={2026},
-note={arXiv:2601.06514},
-}
-</code></pre>
-</details> 
-
-<br>
-
-[Provable Diffusion Posterior Sampling for Bayesian Inversion](docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf)
-
-with Jinyuan Chang, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Cheng Yuan
-
-[[arXiv]](https://arxiv.org/abs/2512.08022) [[PDF]](docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf) [[slides]](docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion_slides.pdf) 
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-This paper proposes a novel diffusion-based posterior sampling method within a plug-and-play (PnP) framework. Our approach constructs a probability transport from an easy-to-sample terminal distribution to the target posterior, using a warm-start strategy to initialize the particles. To approximate the posterior score, we develop a Monte Carlo estimator in which particles are generated using Langevin dynamics, avoiding the heuristic approximations commonly used in prior work. The score governing the Langevin dynamics is learned from data, enabling the model to capture rich structural features of the underlying prior distribution. On the theoretical side, we provide non-asymptotic error bounds, showing that the method converges even for complex, multi-modal target posterior distributions. These bounds explicitly quantify the errors arising from posterior score estimation, the warm-start initialization, and the posterior sampling procedure. Our analysis further clarifies how the prior score-matching error and the condition number of the Bayesian inverse problem influence overall performance. Finally, we present numerical experiments demonstrating the effectiveness of the proposed method across a range of inverse problems.
+<div class="publication">
+  <p class="paper-title"><a href="docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf">Provable Diffusion Posterior Sampling for Bayesian Inversion</a></p>
+  <p class="paper-authors">with Jinyuan Chang, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Cheng Yuan</p>
+  <p class="paper-links"><a href="https://arxiv.org/abs/2512.08022">arXiv</a> · <a href="docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf">PDF</a> · <a href="docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion_slides.pdf">Slides</a></p>
 </div>
-</details> 
 
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@misc{chang2025provable,
-title={Provable Diffusion Posterior Sampling for {B}ayesian Inversion}, 
-author={Jinyuan Chang and Chenguang Duan and Yuling Jiao and Ruoxuan Li and Jerry Zhijian Yang and Cheng Yuan},
-year={2025},
-note={arXiv:2512.08022},
-}
-</code></pre>
-</details> 
-
-<br>
-
-[Characteristic Learning for Provable One Step Generation](docs/Characteristic_Learning.pdf)
- 
-with Zhao Ding, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang
-
-[[arXiv]](https://arxiv.org/abs/2405.05512) [[PDF]](docs/Characteristic_Learning_for_Provable_One_Step_Generation.pdf) [[code]](https://github.com/burning489/CharacteristicGenerator) [[slides]](docs/Characteristic_Learning_for_Provable_One_Step_Generation_slides.pdf)
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-We propose the characteristic generator, a novel one-step generative model that combines the efficiency of sampling in Generative Adversarial Networks (GANs) with the stable performance of flow-based models. Our model is driven by characteristics, along which the probability density transport can be described by ordinary differential equations (ODEs). Specifically, we first estimate the underlying velocity field and use the Euler method to solve the probability flow ODE, generating discrete approximations of the characteristics. A deep neural network is then trained to fit these characteristics, creating a one-step map that pushes a simple Gaussian distribution to the target distribution. In the theoretical aspect, we provide a comprehensive analysis of the errors arising from velocity matching, Euler discretization, and characteristic fitting to establish a non-asymptotic convergence rate in the 2-Wasserstein distance under mild data assumptions. Crucially, we demonstrate that under a standard manifold assumption, this convergence rate depends only on the intrinsic dimension of data rather than the much larger ambient dimension, proving our model's ability to mitigate the curse of dimensionality. To our knowledge, this is the first rigorous convergence analysis for a flow-based one-step generative model. Experiments on both synthetic and real-world datasets demonstrate that the characteristic generator achieves high-quality and high-resolution sample generation with the efficiency of just a single neural network evaluation.
+<div class="publication">
+  <p class="paper-title"><a href="docs/Characteristic_Learning_for_Provable_One_Step_Generation.pdf">Characteristic Learning for Provable One Step Generation</a></p>
+  <p class="paper-authors">with Zhao Ding, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang</p>
+  <p class="paper-links"><a href="https://arxiv.org/abs/2405.05512">arXiv</a> · <a href="docs/Characteristic_Learning_for_Provable_One_Step_Generation.pdf">PDF</a> · <a href="https://github.com/burning489/CharacteristicGenerator">Code</a> · <a href="docs/Characteristic_Learning_for_Provable_One_Step_Generation_slides.pdf">Slides</a></p>
 </div>
-</details> 
 
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@misc{ding2025characteristic,
-title={Characteristic Learning for Provable One Step Generation}, 
-author={Zhao Ding and Chenguang Duan and Yuling Jiao and Ruoxuan Li and Jerry Zhijian Yang and Pingwen Zhang},
-year={2025},
-note={arXiv:2405.05512},
-}
-</code></pre>
-</details> 
+### Selected publications
 
-<br>
-
-**Selected Publications**
-
-[Nonlinear Assimilation via Score-based Sequential Langevin Sampling](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf)
-  
-with Zhao Ding, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang
-
-*IEEE Transactions on Information Theory* (2026)
-
-[[Journal]](https://ieeexplore.ieee.org/document/11616600/) [[arXiv]](https://arxiv.org/abs/2411.13443) [[PDF]](docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf) [[code]](https://github.com/burning489/SSLS)
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-This paper introduces score-based sequential Langevin sampling (SSLS), a novel approach to nonlinear data assimilation within a recursive Bayesian filtering framework. The proposed method decomposes the assimilation process into alternating prediction and update steps, using dynamic models for state prediction and incorporating observational data via score-based Langevin Monte Carlo during the updates. To overcome inherent challenges in highly non-log-concave posterior sampling, we integrate an annealing strategy into the update mechanism. Theoretically, we establish convergence guarantees for SSLS in total variation (TV) and Wasserstein distances, yielding concrete insights into the algorithm’s error behavior with respect to key hyper-parameters. Crucially, our derived error bounds demonstrate the asymptotic stability of SSLS, guaranteeing that local posterior sampling errors do not accumulate indefinitely over time. Extensive numerical experiments across challenging scenarios, including high-dimensional systems, strong nonlinearity, and sparse observations, highlight the robust performance of the proposed method. Furthermore, SSLS effectively quantifies the uncertainty associated with state estimates, rendering it particularly valuable for reliable error calibration.
+<div class="publication">
+  <p class="paper-title"><a href="docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf">Nonlinear Assimilation via Score-based Sequential Langevin Sampling</a></p>
+  <p class="paper-authors">with Zhao Ding, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang</p>
+  <p class="paper-venue"><em>IEEE Transactions on Information Theory</em> (2026)</p>
+  <p class="paper-links"><a href="https://ieeexplore.ieee.org/document/11616600/">Journal</a> · <a href="https://arxiv.org/abs/2411.13443">arXiv</a> · <a href="docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf">PDF</a> · <a href="https://github.com/burning489/SSLS">Code</a></p>
 </div>
-</details> 
 
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@article{ding2026nonlinear,
-author={Ding, Zhao and Duan, Chenguang and Jiao, Yuling and Yang, Jerry Zhijian and Yuan, Cheng and Zhang, Pingwen},
-journal={IEEE Transactions on Information Theory}, 
-title={Nonlinear Assimilation via Score-based Sequential {L}angevin Sampling}, 
-year={2026},
-}
-</code></pre>
-</details> 
-
-<br>
-
-[Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network](docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf) 
-
-with Zhao Ding, Yuling Jiao, and Jerry Zhijian Yang
-
-*IEEE Transactions on Information Theory* (2025)
-
-\* Awarded the 18th East Asia Section of SIAM (EASIAM) Student Paper Prize, Second Prize
-
-[[Journal]](https://ieeexplore.ieee.org/document/10858754) [[arXiv]](https://arxiv.org/abs/2401.04535) [[PDF]](docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf) [[slides]](docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network_slides.pdf)
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-We propose SDORE, a semi-supervised deep Sobolev regressor, for the nonparametric estimation of the underlying regression function and its gradient. SDORE employs deep ReQU neural networks to minimize the empirical risk with gradient norm regularization, allowing the approximation of the regularization term by unlabeled data. Our study includes a thorough analysis of the convergence rates of SDORE in $L^{2}$-norm, achieving the minimax optimality. Further, we establish a convergence rate for the associated plug-in gradient estimator, even in the presence of significant domain shift. These theoretical findings offer valuable insights for selecting regularization parameters and determining the size of the neural network, while showcasing the provable advantage of leveraging unlabeled data in semi-supervised learning. To the best of our knowledge, SDORE is the first provable neural network-based approach that simultaneously estimates the regression function and its gradient, with diverse applications such as nonparametric variable selection. The effectiveness of SDORE is validated through an extensive range of numerical simulations.
+<div class="publication">
+  <p class="paper-title"><a href="docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf">Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network</a></p>
+  <p class="paper-authors">with Zhao Ding, Yuling Jiao, and Jerry Zhijian Yang</p>
+  <p class="paper-venue"><em>IEEE Transactions on Information Theory</em> (2025)</p>
+  <p class="paper-award"><strong>Award:</strong> 18th East Asia Section of SIAM Student Paper Prize, Second Prize</p>
+  <p class="paper-links"><a href="https://ieeexplore.ieee.org/document/10858754">Journal</a> · <a href="https://arxiv.org/abs/2401.04535">arXiv</a> · <a href="docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf">PDF</a> · <a href="docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network_slides.pdf">Slides</a></p>
 </div>
-</details> 
 
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@article{ding2025semi,
-author={Ding, Zhao and Duan, Chenguang and Jiao, Yuling and Yang, Jerry Zhijian},
-journal={IEEE Transactions on Information Theory}, 
-title={Semi-Supervised Deep {S}obolev Regression: {E}stimation and Variable Selection by {ReQU} Neural Network}, 
-year={2025},
-volume={71},
-number={4},
-pages={2955--2981},
-}
-</code></pre>
-</details> 
-
-<br>
-
-[Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis](docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf)
-
-with Yuling Jiao, Jerry Zhijian Yang, and Pingwen Zhang
-
-*East Asian Journal on Applied Mathematics* (2024)
-
-[[Journal]](https://journal.global-sci.org/intro/article_detail/eajam/23157.html) [[PDF]](docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf)
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-In this paper, we present a deep learning approach to tackle elliptic inverse source problems. Our method combines Tikhonov regularization with physics-informed neural networks, utilizing separate neural networks to approximate the source term and solution. Firstly, we construct a population loss and derive stability estimates. Furthermore, we conduct a convergence analysis of the empirical risk minimization estimator. This analysis yields a prior rule for selecting regularization parameters, determining the number of observations, and choosing the size of neural networks. Finally, we validate our proposed method through numerical experiments. These experiments also demonstrate the remarkable robustness of our approach against data noise, even at high levels of up to 50%.
+<div class="publication">
+  <p class="paper-title"><a href="docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf">Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis</a></p>
+  <p class="paper-authors">with Yuling Jiao, Jerry Zhijian Yang, and Pingwen Zhang</p>
+  <p class="paper-venue"><em>East Asian Journal on Applied Mathematics</em> (2024)</p>
+  <p class="paper-links"><a href="https://journal.global-sci.org/intro/article_detail/eajam/23157.html">Journal</a> · <a href="docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf">PDF</a></p>
 </div>
-</details> 
 
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@article{duan2024recovering, 
-author = {Duan, Chenguang and Jiao, Yuling and Yang, Jerry Zhijian and Zhang, Pingwen}, 
-title = {Recovering the Source Term in Elliptic Equation via Deep Learning: {M}ethod and Convergence Analysis}, 
-journal = {East Asian Journal on Applied Mathematics}, 
-year = {2024}, 
-volume = {14}, 
-number = {3}, 
-pages = {460--489}, 
-}
-</code></pre>
-</details> 
-
-<br>
-
-[Current Density Impedance Imaging with PINNs](docs/Current_Density_Impedance_Imaging_with_PINNs.pdf)
-
-with Junjun Huang, Yuling Jiao, Xiliang Lu, and Jerry Zhijian Yang
-
-*Journal of Computational and Applied Mathematics* (2024)
-
-[[Journal]](https://www.sciencedirect.com/science/article/pii/S0377042724003698) [[arXiv]](https://arxiv.org/abs/2306.13881) [[PDF]](docs/Current_Density_Impedance_Imaging_with_PINNs.pdf)
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-In this paper, we introduce CDII-PINNs, a computationally efficient method for solving CDII using PINNs in the framework of Tikhonov regularization. This method constructs a physics-informed loss function by merging the regularized least-squares output functional with an underlying differential equation, which describes the relationship between the conductivity and voltage. A pair of neural networks representing the conductivity and voltage, respectively, are coupled by this loss function. Then, minimizing the loss function provides a reconstruction. A rigorous theoretical guarantee is provided. We give an error analysis for CDII-PINNs and establish a convergence rate, based on prior selected neural network parameters in terms of the number of samples. The numerical simulations demonstrate that CDII-PINNs are efficient, accurate and robust to noise levels ranging from 1% to 20%.
+<div class="publication">
+  <p class="paper-title"><a href="docs/Current_Density_Impedance_Imaging_with_PINNs.pdf">Current Density Impedance Imaging with PINNs</a></p>
+  <p class="paper-authors">with Junjun Huang, Yuling Jiao, Xiliang Lu, and Jerry Zhijian Yang</p>
+  <p class="paper-venue"><em>Journal of Computational and Applied Mathematics</em> (2024)</p>
+  <p class="paper-links"><a href="https://www.sciencedirect.com/science/article/pii/S0377042724003698">Journal</a> · <a href="https://arxiv.org/abs/2306.13881">arXiv</a> · <a href="docs/Current_Density_Impedance_Imaging_with_PINNs.pdf">PDF</a></p>
 </div>
-</details> 
 
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@article{duan2024Current,
-title = {Current density impedance imaging with {PINNs}},
-journal = {Journal of Computational and Applied Mathematics},
-volume = {452},
-pages = {116120},
-year = {2024},
-author = {Chenguang Duan and Junjun Huang and Yuling Jiao and Xiliang Lu and Jerry Zhijian Yang},
-}
-</code></pre>
-</details> 
-
-<br>
-
-[Deep Ritz Methods for Laplace Equations with Dirichlet Boundary Condition](docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf)
-
-with Yuling Jiao, Yanming Lai, Xiliang Lu, Qimeng Quan, and Jerry Zhijian Yang
-
-*CSIAM Transactions on Applied Mathematics* (2022)
-
-[[Journal]](https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html) [[arXiv]](https://arxiv.org/abs/2111.02009) [[PDF]](docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf) 
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-Deep Ritz methods (DRM) have been proven numerically to be efficient in solving partial differential equations. In this paper, we present a convergence rate in $H^{1}$ norm for deep Ritz methods for Laplace equations with Dirichlet boundary condition, where the error depends on the depth and width in the deep neural networks and the number of samples explicitly. Further we can properly choose the depth and width in the deep neural networks in terms of the number of training samples. The main idea of the proof is to decompose the total error of DRM into three parts, that is approximation error, statistical error and the error caused by the boundary penalty. We bound the approximation error in $H^{1}$-norm with ReLU$^{2}$ networks and control the statistical error via Rademacher complexity. In particular, we derive the bound on the Rademacher complexity of the non-Lipschitz composition of gradient norm with ReLU$^{2}$ network, which is of immense independent interest. We also analyze the error inducing by the boundary penalty method and give a prior rule for tuning the penalty parameter.
+<div class="publication">
+  <p class="paper-title"><a href="docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf">Deep Ritz Methods for Laplace Equations with Dirichlet Boundary Condition</a></p>
+  <p class="paper-authors">with Yuling Jiao, Yanming Lai, Xiliang Lu, Qimeng Quan, and Jerry Zhijian Yang</p>
+  <p class="paper-venue"><em>CSIAM Transactions on Applied Mathematics</em> (2022)</p>
+  <p class="paper-links"><a href="https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html">Journal</a> · <a href="https://arxiv.org/abs/2111.02009">arXiv</a> · <a href="docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf">PDF</a></p>
 </div>
-</details> 
 
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@article{duan2022deep,
-author = {Duan, Chenguang and Jiao, Yuling and Lai, Yanming and Lu, Xiliang and Quan, Qimeng and Yang, Jerry Zhijian}, 
-title = {Deep {Ritz} Methods for {Laplace} Equations with {Dirichlet} Boundary Condition}, 
-journal = {CSIAM Transactions on Applied Mathematics}, 
-year = {2022}, 
-volume = {3}, 
-number = {4}, 
-pages = {761--791},
-}
-</code></pre>
-</details> 
-
-<br>
-
-[Convergence Rate Analysis for Deep Ritz Method](docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf)
-
-with Yuling Jiao, Yanming Lai, Dingwei Li, Xiliang Lu, and Jerry Zhijian Yang
-
-*Communications in Computational Physics* (2022).
-
-[[Journal]](https://journal.global-sci.org/intro/article_detail/cicp/20375.html) [[arXiv]](https://arxiv.org/abs/2103.13330) [[PDF]](docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf)
-
-<details>
-<summary> Abstract </summary>
-<div class="collapsible-content">
-Using deep neural networks to solve PDEs has attracted a lot of attentions recently. However, why the deep learning method works is falling far behind its empirical success. In this paper, we provide a rigorous numerical analysis on deep Ritz method (DRM) for second order elliptic equations with Neumann boundary conditions. We establish the first nonasymptotic convergence rate in $H^{1}$ norm for DRM using deep networks with ReLU$^2$ activation functions. In addition to providing a theoretical justification of DRM, our study also shed light on how to set the hyperparameter of depth and width to achieve the desired convergence rate in terms of number of training samples. Technically, we derive bound on the approximation error of deep ReLU$^2$ network in $C^{1}$ norm and bound on the Rademacher complexity of the non-Lipschitz composition of gradient norm and ReLU$^2$ network, both of which are of independent interest.
+<div class="publication">
+  <p class="paper-title"><a href="docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf">Convergence Rate Analysis for Deep Ritz Method</a></p>
+  <p class="paper-authors">with Yuling Jiao, Yanming Lai, Dingwei Li, Xiliang Lu, and Jerry Zhijian Yang</p>
+  <p class="paper-venue"><em>Communications in Computational Physics</em> (2022)</p>
+  <p class="paper-links"><a href="https://journal.global-sci.org/intro/article_detail/cicp/20375.html">Journal</a> · <a href="https://arxiv.org/abs/2103.13330">arXiv</a> · <a href="docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf">PDF</a></p>
 </div>
-</details> 
-
-<details>
-<summary> Bibtex </summary>
-<pre><code>
-@article{duan2022convergence, 
-author = {Duan, Chenguang and Jiao, Yuling and Lai, Yanming and Li, Dingwei and Lu, Xiliang and Yang, Jerry Zhijian}, 
-title = {Convergence Rate Analysis for Deep {Ritz} Method}, 
-journal = {Communications in Computational Physics}, 
-year = {2022}, 
-volume = {31}, 
-number = {4}, 
-pages = {1020--1048},
-}
-</code></pre>
-</details> 
-
-
-<body>
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=150&t=n&d=H9CnWG9M-zXOpBTdhYeqHGEuPRWYE5zH19GabgSMt_M&co=ffffff&cmo=ffffff&cmn=ffffff&ct=ffffff'></script>
-</body>
-
-
-

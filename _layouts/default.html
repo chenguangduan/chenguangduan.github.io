@@ -1,78 +1,41 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
     <title>{{ page.title | default: site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
 
   <body>
     <div class="wrapper">
-
-      <!-- HEADER -->
       <header class="site-header">
-        <h1 class="site-title">{{ site.title }}</h1>
+        <h1 class="site-title">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
 
         {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Profile photo">
+          <img class="profile-photo" src="{{ site.logo | relative_url }}" alt="Portrait of Chenguang Duan">
         {% endif %}
 
-      <div class="social-links">
-      
-        <div>
-          <strong>Applied Mathematics</strong>
-        </div>
+        <p class="research-area">Applied Mathematics</p>
 
-        <div>
-          <strong>Google Scholar:</strong>
-          <a href="https://scholar.google.com/citations?user=RpmGgyMAAAAJ" target="_blank">
-            RpmGgyMAAAAJ
-          </a>
-        </div>
-      
-        <div>
-          <strong>GitHub:</strong>
-          <a href="https://github.com/chenguangduan" target="_blank">
-            github.com/chenguangduan
-          </a>
-        </div>
-      
-        <div>
-          <strong>ORCID:</strong>
-          <a href="https://orcid.org/0009-0009-0815-6281" target="_blank">
-            0009-0009-0815-6281
-          </a>
-        </div>
+        <nav class="profile-links" aria-label="Academic profiles">
+          <a href="https://scholar.google.com/citations?user=RpmGgyMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+          <a href="https://github.com/chenguangduan" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://orcid.org/0009-0009-0815-6281" target="_blank" rel="noopener noreferrer">ORCID</a>
+        </nav>
 
-        <div>
-          <strong>Office:</strong>
-            Room 464, Im Süsterfeld 2, 52072 Aachen, Germany
-          </a>
+        <div class="contact-details">
+          <p><strong>Office</strong><br>Room 464, Im Süsterfeld 2<br>52072 Aachen, Germany</p>
+          <p><strong>Email</strong><br><a href="mailto:duan@igpm.rwth-aachen.de">duan@igpm.rwth-aachen.de</a><br><a href="mailto:cgduan.math@gmail.com">cgduan.math@gmail.com</a></p>
         </div>
-      
-        <div>
-          <strong>Email (RWTH Aachen):</strong>
-          <a href="mailto:duan@igpm.rwth-aachen.de">
-            duan@igpm.rwth-aachen.de
-          </a>
-        </div>
-      
-        <div>
-          <strong>Email (Personal):</strong>
-          <a href="mailto:cgduan.math@gmail.com">
-            cgduan.math@gmail.com
-          </a>
-        </div>
-      
-      </div>
-        
       </header>
 
-      <!-- MAIN CONTENT -->
-      <section>
+      <main class="site-content">
         {{ content }}
-      </section>
-
+      </main>
     </div>
   </body>
 </html>
