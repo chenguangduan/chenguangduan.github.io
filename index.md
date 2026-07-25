@@ -25,7 +25,7 @@ My research lies at the intersection of computational mathematics, statistics, a
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs.pdf">Preconditioning and Numerical Stability in Neural Network Training for Parametric PDEs</a></p>
-  <p class="paper-authors">with Markus Bachmayr, Wolfgang Dahmen, and Mathias Oster</p>
+  <p class="paper-authors">with <a href="https://www.igpm.rwth-aachen.de/team/bachmayr">Markus Bachmayr</a>, <a href="https://sc.edu/study/colleges_schools/artsandsciences/mathematics/our_people/directory/dahmen_wolfgang.php">Wolfgang Dahmen</a>, and <a href="https://scholar.google.com/citations?user=XfnV-dkAAAAJ&hl=de">Mathias Oster</a></p>
   <p class="paper-links"><a href="https://arxiv.org/abs/2601.23185">arXiv</a> · <a href="docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs.pdf">PDF</a> · <a href="https://zenodo.org/records/18681906">Code</a> · <a href="docs/Preconditioning_and_Numerical_Stability_in_Neural_Network_Training_for_Parametric_PDEs_slides.pdf">Slides</a></p>
 </div>
 
