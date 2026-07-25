@@ -4,6 +4,8 @@ title: Chenguang Duan
 description: Homepage of Chenguang Duan, a researcher in applied mathematics, scientific machine learning, generative models, inverse problems, and learning theory.
 ---
 
+<section class="introduction" markdown="1">
+
 I am a postdoctoral researcher at the [Institut für Geometrie und Praktische Mathematik](https://www.igpm.rwth-aachen.de), [RWTH Aachen University](https://www.rwth-aachen.de/), working with Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. Dr. [Wolfgang Dahmen](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/our_people/directory/dahmen_wolfgang.php).
 
 Previously, I obtained my Ph.D. from the School of Mathematics and Statistics at Wuhan University, where I was advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm) and Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I also earned my Bachelor's degree in Mathematics from Wuhan University.
@@ -16,6 +18,10 @@ My research lies at the intersection of computational mathematics, statistics, a
 - Generative models and sampling
 - Inverse problems
 - Statistical learning and deep learning theory
+
+</section>
+
+<section class="publications-section" markdown="1">
 
 ## Publications
 
@@ -97,3 +103,5 @@ My research lies at the intersection of computational mathematics, statistics, a
   <p class="paper-venue"><em>Communications in Computational Physics</em> (2022)</p>
   <p class="paper-links"><a href="https://journal.global-sci.org/intro/article_detail/cicp/20375.html">Journal</a> · <a href="https://arxiv.org/abs/2103.13330">arXiv</a> · <a href="docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf">PDF</a></p>
 </div>
+
+</section>

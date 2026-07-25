@@ -14,26 +14,24 @@
         <h1 class="site-title">
           <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
         </h1>
-
-        {% if site.logo %}
-          <img class="profile-photo" src="{{ site.logo | relative_url }}" alt="Portrait of Chenguang Duan">
-        {% endif %}
-
-        <p class="research-area">Applied Mathematics</p>
-
-        <nav class="profile-links" aria-label="Academic profiles">
-          <a href="https://scholar.google.com/citations?user=RpmGgyMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
-          <a href="https://github.com/chenguangduan" target="_blank" rel="noopener noreferrer">GitHub</a>
-          <a href="https://orcid.org/0009-0009-0815-6281" target="_blank" rel="noopener noreferrer">ORCID</a>
-        </nav>
-
-        <div class="contact-details">
-          <p><strong>Office</strong><br>Room 464, Im Süsterfeld 2<br>52072 Aachen, Germany</p>
-          <p><strong>Email</strong><br><a href="mailto:duan@igpm.rwth-aachen.de">duan@igpm.rwth-aachen.de</a><br><a href="mailto:cgduan.math@gmail.com">cgduan.math@gmail.com</a></p>
-        </div>
       </header>
 
-      <main class="site-content">
+      <main class="home-layout">
+        <aside class="profile-column" aria-label="Profile and contact information">
+          {% if site.logo %}
+            <img class="profile-photo" src="{{ site.logo | relative_url }}" alt="Portrait of Chenguang Duan">
+          {% endif %}
+
+          <nav class="profile-links" aria-label="Academic profiles">
+            <a href="https://scholar.google.com/citations?user=RpmGgyMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> · <a href="https://github.com/chenguangduan" target="_blank" rel="noopener noreferrer">GitHub</a> · <a href="https://orcid.org/0009-0009-0815-6281" target="_blank" rel="noopener noreferrer">ORCID</a>
+          </nav>
+
+          <div class="contact-details">
+            <p><strong>Office</strong><br>Room 464, Im Süsterfeld 2<br>52072 Aachen, Germany</p>
+            <p><strong>Email</strong><br><a href="mailto:duan@igpm.rwth-aachen.de">duan@igpm.rwth-aachen.de</a><br><a href="mailto:cgduan.math@gmail.com">cgduan.math@gmail.com</a></p>
+          </div>
+        </aside>
+
         {{ content }}
       </main>
     </div>
