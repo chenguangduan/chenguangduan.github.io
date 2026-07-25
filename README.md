@@ -1,4 +1,4 @@
-# Chenguang Duan — academic homepage
+# Chenguang Duan — homepage
 
 This repository contains a single-page Jekyll site for GitHub Pages.
 
