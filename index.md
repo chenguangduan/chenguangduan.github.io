@@ -37,19 +37,19 @@ My research lies at the intersection of computational mathematics, statistics, a
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Inference_Time_Alignment_for_Diffusion_Models_via_Variationally_Stable_Doobs_Matching.pdf">Inference-Time Alignment for Diffusion Models via Variationally Stable Doob's Matching</a></p>
-  <p class="paper-authors">with Jinyuan Chang, Yuling Jiao, Yi Xu, and Jerry Zhijian Yang</p>
+  <p class="paper-authors">with <a href="https://sites.google.com/site/bryanchangjinyuan/">Jinyuan Chang</a>, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, Yi Xu, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
   <p class="paper-links"><a href="https://arxiv.org/abs/2601.06514">arXiv</a> · <a href="docs/Inference_Time_Alignment_for_Diffusion_Models_via_Variationally_Stable_Doobs_Matching.pdf">PDF</a></p>
 </div>
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf">Provable Diffusion Posterior Sampling for Bayesian Inversion</a></p>
-  <p class="paper-authors">with Jinyuan Chang, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Cheng Yuan</p>
+  <p class="paper-authors">with <a href="https://sites.google.com/site/bryanchangjinyuan/">Jinyuan Chang</a>, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, Ruoxuan Li, <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a>, and <a href="https://scholar.google.com/citations?user=UFL4YUwAAAAJ&hl=en">Cheng Yuan</a></p>
   <p class="paper-links"><a href="https://arxiv.org/abs/2512.08022">arXiv</a> · <a href="docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf">PDF</a> · <a href="docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion_slides.pdf">Slides</a></p>
 </div>
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Characteristic_Learning_for_Provable_One_Step_Generation.pdf">Characteristic Learning for Provable One Step Generation</a></p>
-  <p class="paper-authors">with Zhao Ding, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang, and Pingwen Zhang</p>
+  <p class="paper-authors">with <a href="https://zhao-ding.com">Zhao Ding</a>, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, Ruoxuan Li, <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a>, and <a href="https://math.pku.edu.cn/pzhang/en/">Pingwen Zhang</a></p>
   <p class="paper-links"><a href="https://arxiv.org/abs/2405.05512">arXiv</a> · <a href="docs/Characteristic_Learning_for_Provable_One_Step_Generation.pdf">PDF</a> · <a href="https://github.com/burning489/CharacteristicGenerator">Code</a> · <a href="docs/Characteristic_Learning_for_Provable_One_Step_Generation_slides.pdf">Slides</a></p>
 </div>
 
@@ -57,14 +57,14 @@ My research lies at the intersection of computational mathematics, statistics, a
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf">Nonlinear Assimilation via Score-based Sequential Langevin Sampling</a></p>
-  <p class="paper-authors">with Zhao Ding, Yuling Jiao, Jerry Zhijian Yang, Cheng Yuan, and Pingwen Zhang</p>
+  <p class="paper-authors">with <a href="https://zhao-ding.com">Zhao Ding</a>, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a>, <a href="https://scholar.google.com/citations?user=UFL4YUwAAAAJ&hl=en">Cheng Yuan</a>, and <a href="https://math.pku.edu.cn/pzhang/en/">Pingwen Zhang</a></p>
   <p class="paper-venue"><em>IEEE Transactions on Information Theory</em> (2026)</p>
   <p class="paper-links"><a href="https://ieeexplore.ieee.org/document/11616600/">Journal</a> · <a href="https://arxiv.org/abs/2411.13443">arXiv</a> · <a href="docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf">PDF</a> · <a href="https://github.com/burning489/SSLS">Code</a></p>
 </div>
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf">Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network</a></p>
-  <p class="paper-authors">with Zhao Ding, Yuling Jiao, and Jerry Zhijian Yang</p>
+  <p class="paper-authors">with <a href="https://zhao-ding.com">Zhao Ding</a>, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
   <p class="paper-venue"><em>IEEE Transactions on Information Theory</em> (2025)</p>
   <p class="paper-award"><strong>Award:</strong> 18th East Asia Section of SIAM Student Paper Prize, Second Prize</p>
   <p class="paper-links"><a href="https://ieeexplore.ieee.org/document/10858754">Journal</a> · <a href="https://arxiv.org/abs/2401.04535">arXiv</a> · <a href="docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf">PDF</a> · <a href="docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network_slides.pdf">Slides</a></p>
@@ -72,28 +72,28 @@ My research lies at the intersection of computational mathematics, statistics, a
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf">Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis</a></p>
-  <p class="paper-authors">with Yuling Jiao, Jerry Zhijian Yang, and Pingwen Zhang</p>
+  <p class="paper-authors">with <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a>, and <a href="https://math.pku.edu.cn/pzhang/en/">Pingwen Zhang</a></p>
   <p class="paper-venue"><em>East Asian Journal on Applied Mathematics</em> (2024)</p>
   <p class="paper-links"><a href="https://journal.global-sci.org/intro/article_detail/eajam/23157.html">Journal</a> · <a href="docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf">PDF</a></p>
 </div>
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Current_Density_Impedance_Imaging_with_PINNs.pdf">Current Density Impedance Imaging with PINNs</a></p>
-  <p class="paper-authors">with Junjun Huang, Yuling Jiao, Xiliang Lu, and Jerry Zhijian Yang</p>
+  <p class="paper-authors">with Junjun Huang, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, <a href="https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en">Xiliang Lu</a>, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
   <p class="paper-venue"><em>Journal of Computational and Applied Mathematics</em> (2024)</p>
   <p class="paper-links"><a href="https://www.sciencedirect.com/science/article/pii/S0377042724003698">Journal</a> · <a href="https://arxiv.org/abs/2306.13881">arXiv</a> · <a href="docs/Current_Density_Impedance_Imaging_with_PINNs.pdf">PDF</a></p>
 </div>
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf">Deep Ritz Methods for Laplace Equations with Dirichlet Boundary Condition</a></p>
-  <p class="paper-authors">with Yuling Jiao, Yanming Lai, Xiliang Lu, Qimeng Quan, and Jerry Zhijian Yang</p>
+  <p class="paper-authors">with <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, <a href="https://scholar.google.com/citations?user=P6EcP_UAAAAJ&hl=en">Yanming Lai</a>, <a href="https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en">Xiliang Lu</a>, Qimeng Quan, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
   <p class="paper-venue"><em>CSIAM Transactions on Applied Mathematics</em> (2022)</p>
   <p class="paper-links"><a href="https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html">Journal</a> · <a href="https://arxiv.org/abs/2111.02009">arXiv</a> · <a href="docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf">PDF</a></p>
 </div>
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf">Convergence Rate Analysis for Deep Ritz Method</a></p>
-  <p class="paper-authors">with Yuling Jiao, Yanming Lai, Dingwei Li, Xiliang Lu, and Jerry Zhijian Yang</p>
+  <p class="paper-authors">with <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, <a href="https://scholar.google.com/citations?user=P6EcP_UAAAAJ&hl=en">Yanming Lai</a>, Dingwei Li, <a href="https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en">Xiliang Lu</a>, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
   <p class="paper-venue"><em>Communications in Computational Physics</em> (2022)</p>
   <p class="paper-links"><a href="https://journal.global-sci.org/intro/article_detail/cicp/20375.html">Journal</a> · <a href="https://arxiv.org/abs/2103.13330">arXiv</a> · <a href="docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf">PDF</a></p>
 </div>
