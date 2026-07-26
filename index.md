@@ -80,7 +80,7 @@ My research lies at the intersection of computational mathematics, statistics, a
   <p class="paper-title"><a href="docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf">Recovering the Source Term in Elliptic Equation via Deep Learning: Method and Convergence Analysis</a></p>
   <p class="paper-authors">with <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a>, and <a href="https://math.pku.edu.cn/pzhang/en/">Pingwen Zhang</a></p>
   <p class="paper-venue"><em>East Asian Journal on Applied Mathematics</em> (2024)</p>
-  <p class="paper-links"><a href="https://journal.global-sci.org/intro/article_detail/eajam/23157.html">Journal</a> · <a href="docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf">PDF</a></p>
+  <p class="paper-links"><a href="https://www.global-sci.com/EAJAM/article/view/9658">Journal</a> · <a href="docs/Recovering_the_Source_Term_in_Elliptic_Equation_via_Deep_Learning_Method_and_Convergence_Analysis.pdf">PDF</a></p>
 </div>
 
 <div class="publication">
@@ -94,14 +94,14 @@ My research lies at the intersection of computational mathematics, statistics, a
   <p class="paper-title"><a href="docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf">Deep Ritz Methods for Laplace Equations with Dirichlet Boundary Condition</a></p>
   <p class="paper-authors">with <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, <a href="https://scholar.google.com/citations?user=P6EcP_UAAAAJ&hl=en">Yanming Lai</a>, <a href="https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en">Xiliang Lu</a>, Qimeng Quan, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
   <p class="paper-venue"><em>CSIAM Transactions on Applied Mathematics</em> (2022)</p>
-  <p class="paper-links"><a href="https://journal.global-sci.org/intro/article_detail/csiam-am/21155.html">Journal</a> · <a href="https://arxiv.org/abs/2111.02009">arXiv</a> · <a href="docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf">PDF</a></p>
+  <p class="paper-links"><a href="https://www.global-sci.com/csiam-am/article/view/7817">Journal</a> · <a href="https://arxiv.org/abs/2111.02009">arXiv</a> · <a href="docs/Deep_Ritz_Methods_for_Laplace_Equations_with_Dirichlet_Boundary_Condition.pdf">PDF</a></p>
 </div>
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf">Convergence Rate Analysis for Deep Ritz Method</a></p>
   <p class="paper-authors">with <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, <a href="https://scholar.google.com/citations?user=P6EcP_UAAAAJ&hl=en">Yanming Lai</a>, Dingwei Li, <a href="https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en">Xiliang Lu</a>, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
   <p class="paper-venue"><em>Communications in Computational Physics</em> (2022)</p>
-  <p class="paper-links"><a href="https://journal.global-sci.org/intro/article_detail/cicp/20375.html">Journal</a> · <a href="https://arxiv.org/abs/2103.13330">arXiv</a> · <a href="docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf">PDF</a></p>
+  <p class="paper-links"><a href="https://www.global-sci.com/cicp/article/view/7054">Journal</a> · <a href="https://arxiv.org/abs/2103.13330">arXiv</a> · <a href="docs/Convergence_Rate_Analysis_for_Deep_Ritz_Method.pdf">PDF</a></p>
 </div>
 
 </section>
