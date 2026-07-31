@@ -50,7 +50,7 @@ My research lies at the intersection of computational mathematics, statistics, a
 <div class="publication">
   <p class="paper-title"><a href="docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf">Provable Diffusion Posterior Sampling for Bayesian Inversion</a></p>
   <p class="paper-authors">with <a href="https://sites.google.com/site/bryanchangjinyuan/">Jinyuan Chang</a>, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, Ruoxuan Li, <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a>, and <a href="https://scholar.google.com/citations?user=UFL4YUwAAAAJ&hl=en">Cheng Yuan</a></p>
-  <p class="paper-links"><a href="https://arxiv.org/abs/2512.08022">arXiv</a> · <a href="docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf">PDF</a> · <a href="https://github.com/Ruoxuan0077/PDPS">Code</a> · <a href="docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion_slides.pdf">Slides</a></p>
+  <p class="paper-links"><a href="https://arxiv.org/abs/2512.08022">arXiv</a> · <a href="docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion.pdf">PDF</a> · <a href="https://github.com/Ruoxuan0077/Provable-Diffusion-Posterior-Sampling-for-Bayesian-Inversion">Code</a> · <a href="docs/Provable_Diffusion_Posterior_Sampling_for_Bayesian_Inversion_slides.pdf">Slides</a></p>
 </div>
 
 <div class="publication">
