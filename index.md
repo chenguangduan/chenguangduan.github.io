@@ -12,6 +12,9 @@ Previously, I obtained my Ph.D. from the School of Mathematics and Statistics at
 
 My research lies at the intersection of computational mathematics, statistics, and machine learning, with a focus on scientific machine learning, generative models, inverse problems, and learning theory. I welcome opportunities for collaboration and discussion.
 
+* From this November, I will be a Postdoctoral Research Assistant in the research group "Stochastic Algorithms and Nonparametric Statistics" at [Weierstrass Institute
+for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de), working with Prof. Dr. [Johannes Schmidt-Hieber](https://jschmidthieber.personalweb.utwente.nl).
+
 ## Research interests
 
 - Scientific machine learning
