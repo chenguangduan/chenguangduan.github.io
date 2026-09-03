@@ -86,8 +86,6 @@ Adv-SSL_Adversarial_Self-Supervised_Representation_Learning_with_Theoretical_Gua
 Adv-SSL_Adversarial_Self-Supervised_Representation_Learning_with_Theoretical_Guarantees.pdf">PDF</a></p>
 </div>
 
-Adv-SSL_Adversarial_Self-Supervised_Representation_Learning_with_Theoretical_Guarantees.pdf
-
 <div class="publication">
   <p class="paper-title"><a href="docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf">Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network</a></p>
   <p class="paper-authors">with <a href="https://zhao-ding.com">Zhao Ding</a>, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
