@@ -78,6 +78,17 @@ for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de), workin
 </div>
 
 <div class="publication">
+  <p class="paper-title"><a href="docs/
+Adv-SSL_Adversarial_Self-Supervised_Representation_Learning_with_Theoretical_Guarantees.pdf">Adv-SSL: Adversarial Self-Supervised Representation Learning with Theoretical Guarantees</a></p>
+  <p class="paper-authors">with <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, <a href="https://www.huazhenlin.com/En/Homepage.html">Huazhen Lin</a>, <a href="https://vincen-github.github.io/vincen.github.io/">Wensen Ma</a>, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
+  <p class="paper-venue"><em>Advances in Neural Information Processing Systems 38 Main Conference </em> (NeurIPS 2025) </p>
+  <p class="paper-links"><a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/b216ce49d808157ba14adec9453983a4-Abstract-Conference.html">Conference</a> · <a href="https://arxiv.org/abs/2408.08533">arXiv</a> · <a href="docs/
+Adv-SSL_Adversarial_Self-Supervised_Representation_Learning_with_Theoretical_Guarantees.pdf">PDF</a></p>
+</div>
+
+Adv-SSL_Adversarial_Self-Supervised_Representation_Learning_with_Theoretical_Guarantees.pdf
+
+<div class="publication">
   <p class="paper-title"><a href="docs/Semi_Supervised_Deep_Sobolev_Regression_Estimation_and_Variable_Selection_by_ReQU_Neural_Network.pdf">Semi-Supervised Deep Sobolev Regression: Estimation and Variable Selection by ReQU Neural Network</a></p>
   <p class="paper-authors">with <a href="https://zhao-ding.com">Zhao Ding</a>, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
   <p class="paper-venue"><em>IEEE Transactions on Information Theory</em> (2025)</p>
