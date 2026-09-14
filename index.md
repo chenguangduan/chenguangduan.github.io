@@ -17,10 +17,10 @@ for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de), workin
 
 ## Research interests
 
+- Statistical learning and deep learning theory
 - Scientific machine learning
 - Generative models and sampling
 - Inverse problems
-- Statistical learning and deep learning theory
 
 </section>
 
