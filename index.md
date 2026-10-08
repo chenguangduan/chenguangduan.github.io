@@ -33,6 +33,12 @@ for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de), workin
 ### Ongoing work
 
 <div class="publication">
+  <p class="paper-title"><a href="https://arxiv.org/pdf/2610.10278">Neural Sampling with Reweighted Normalizing Flows via the Wasserstein--Fisher--Rao JKO Scheme</a></p>
+  <p class="paper-authors">with <a href="https://johertrich.github.io">Johannes Hertrich</a>, and <a href="https://www.tu.berlin/imageanalysis/">Gabriele Steidl</a></p>
+  <p class="paper-links"><a href="https://arxiv.org/abs/2610.10278">arXiv</a> · <a href="https://arxiv.org/pdf/2610.10278">PDF</a></p>
+</div>
+
+<div class="publication">
   <p class="paper-title"><a href="docs/Diffusion_Based_Unpaired_Data_Learning_for_Inverse_Problems.pdf">Diffusion Based Unpaired Data Learning for Inverse Problems</a></p>
   <p class="paper-authors">with <a href="https://matbc.github.io">Chenglong Bao</a>, Yiming Dang, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, and <a href="https://www.polyu.edu.hk/ama/profile/dfsun//">Defeng Sun</a></p>
   <p class="paper-links"><a href="https://arxiv.org/abs/2609.01370">arXiv</a> · <a href="docs/Diffusion_Based_Unpaired_Data_Learning_for_Inverse_Problems.pdf">PDF</a></p>
