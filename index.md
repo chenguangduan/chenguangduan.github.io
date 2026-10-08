@@ -34,7 +34,7 @@ for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de), workin
 
 <div class="publication">
   <p class="paper-title"><a href="https://arxiv.org/pdf/2610.10278">Neural Sampling with Reweighted Normalizing Flows via the Wasserstein--Fisher--Rao JKO Scheme</a></p>
-  <p class="paper-authors">with <a href="https://johertrich.github.io">Johannes Hertrich</a>, and <a href="https://www.tu.berlin/imageanalysis/">Gabriele Steidl</a></p>
+  <p class="paper-authors">with <a href="https://johertrich.github.io">Johannes Hertrich</a>, and <a href="https://www.tu.berlin/imageanalysis/ueber-uns/team/prof-dr-gabriele-steidl">Gabriele Steidl</a></p>
   <p class="paper-links"><a href="https://arxiv.org/abs/2610.10278">arXiv</a> · <a href="https://arxiv.org/pdf/2610.10278">PDF</a></p>
 </div>
 
@@ -52,7 +52,7 @@ for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de), workin
 
 <div class="publication">
   <p class="paper-title"><a href="https://arxiv.org/pdf/2601.08527">Sampling via Stochastic Interpolants by Langevin-based Velocity and Initialization Estimation in Flow ODEs</a></p>
-  <p class="paper-authors">with <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, <a href="https://www.tu.berlin/imageanalysis/">Gabriele Steidl</a>, <a href="https://ilhtt.github.io/wald.github.io/">Christian Wald</a>, <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a>, and Ruizhe Zhang</p>
+  <p class="paper-authors">with <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, <a href="https://www.tu.berlin/imageanalysis/ueber-uns/team/prof-dr-gabriele-steidl">Gabriele Steidl</a>, <a href="https://ilhtt.github.io/wald.github.io/">Christian Wald</a>, <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a>, and Ruizhe Zhang</p>
   <p class="paper-links"><a href="https://arxiv.org/abs/2601.08527">arXiv</a> · <a href="https://arxiv.org/pdf/2601.08527">PDF</a></p>
 </div>
 
