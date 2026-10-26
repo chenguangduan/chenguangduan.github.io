@@ -11,8 +11,7 @@ for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de), workin
 
 Previously, I obtained my Ph.D. from the School of Mathematics and Statistics at Wuhan University, where I was advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm) and Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I also earned my Bachelor's degree in Mathematics from Wuhan University.
 
-My research lies at the intersection of computational mathematics, statistics, and machine learning, with a focus on scientific machine learning, generative models, inverse problems, and learning theory. I welcome opportunities for collaboration and discussion.
-
+My research lies at the intersection of computational mathematics, statistics, and machine learning, with a focus on statistical learning theory, scientific machine learning, generative models, and inverse problems. I welcome opportunities for collaboration and discussion.
 
 ## Research interests
 
