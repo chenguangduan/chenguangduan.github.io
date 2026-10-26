@@ -6,7 +6,7 @@ description: Homepage of Chenguang Duan, a researcher in applied mathematics, sc
 
 <section class="introduction" markdown="1">
 
-I am a "[Postdoctoral Research Assistant](https://wias-berlin.de/contact/staff/index.jsp?lang=1&uname=duan)" in the research group "[Stochastic Algorithms and Nonparametric Statistics](https://www.wias-berlin.de/research/rgs/fg6/index.jsp?lang=1)" at [Weierstrass Institute
+I am a [Postdoctoral Research Assistant](https://wias-berlin.de/contact/staff/index.jsp?lang=1&uname=duan) in the research group "[Stochastic Algorithms and Nonparametric Statistics](https://www.wias-berlin.de/research/rgs/fg6/index.jsp?lang=1)" at [Weierstrass Institute
 for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de), working with Prof. Dr. [Johannes Schmidt-Hieber](https://schmidthieber.gitlab.io). I was a postdoctoral researcher at the [Institut für Geometrie und Praktische Mathematik](https://www.igpm.rwth-aachen.de), [RWTH Aachen University](https://www.rwth-aachen.de/), working with Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) and Prof. Dr. [Wolfgang Dahmen](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/our_people/directory/dahmen_wolfgang.php).
 
 Previously, I obtained my Ph.D. from the School of Mathematics and Statistics at Wuhan University, where I was advised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm) and Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm). I also earned my Bachelor's degree in Mathematics from Wuhan University.
