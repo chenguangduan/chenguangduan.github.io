@@ -56,8 +56,8 @@ I welcome opportunities for collaboration and discussion!
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Inference_Time_Alignment_for_Diffusion_Models_via_Variationally_Stable_Doobs_Matching.pdf">Inference-Time Alignment for Diffusion Models via Variationally Stable Doob's Matching</a></p>
-  <p class="paper-authors">with <a href="https://sites.google.com/site/bryanchangjinyuan/">Jinyuan Chang</a>, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, Yi Xu, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
-  <p class="paper-links"><a href="https://arxiv.org/abs/2601.06514">arXiv</a> · <a href="docs/Inference_Time_Alignment_for_Diffusion_Models_via_Variationally_Stable_Doobs_Matching.pdf">PDF</a></p>
+  <p class="paper-authors">with <a href="https://sites.google.com/site/bryanchangjinyuan/">Jinyuan Chang</a>, <a href="https://jszy.whu.edu.cn/jiaoyuling/en/lwcg/1349484/list/index.htm">Yuling Jiao</a>, Ruoxuan Li, Yi Xu, and <a href="https://imai.whu.edu.cn/info/1031/2141.htm">Jerry Zhijian Yang</a></p>
+  <p class="paper-links"><a href="https://arxiv.org/abs/2601.06514">arXiv</a> · <a href="[docs/Inference_Time_Alignment_for_Diffusion_Models_via_Variationally_Stable_Doobs_Matching.pdf](https://arxiv.org/pdf/2601.06514)">PDF</a></p>
 </div>
 
 <div class="publication">
