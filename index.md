@@ -13,7 +13,9 @@ Previously, I was a postdoctoral researcher in the [Institut für Geometrie und 
 
 I welcome opportunities for collaboration and discussion!
 
+<p style="color: #888;" markdown="1">
 I have been awarded an [Alexander von Humboldt Research Fellowship for Postdocs](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship), which I will carry out with two hosts: Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) (RWTH Aachen) and Prof. Dr. [Gabriele Steidl](https://www.tu.berlin/imageanalysis/ueber-uns/team/prof-dr-gabriele-steidl) (TU Berlin).
+</p>
 
 ## Research interests
 
