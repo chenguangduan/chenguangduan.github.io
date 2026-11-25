@@ -104,6 +104,12 @@ main.home-layout {
   padding-top: 2px;
 }
 
+/* Layer 4: awards, full width below publications. */
+.awards-section {
+  grid-column: 1 / -1;
+  grid-row: 3;
+}
+
 .profile-photo {
   display: block;
   width: 185px;
@@ -146,12 +152,14 @@ main.home-layout {
 }
 
 .introduction p,
-.publications-section p {
+.publications-section p,
+.awards-section p {
   margin: 0 0 15px;
 }
 
 .introduction h2,
-.publications-section h2 {
+.publications-section h2,
+.awards-section h2 {
   color: var(--text);
   font-size: 22px;
   font-weight: 650;
@@ -164,7 +172,8 @@ main.home-layout {
   border-bottom: 1px solid var(--line);
 }
 
-.publications-section > h2:first-child {
+.publications-section > h2:first-child,
+.awards-section > h2:first-child {
   margin: 0 0 17px;
   padding-bottom: 7px;
   border-bottom: 1px solid var(--line);
@@ -178,12 +187,14 @@ main.home-layout {
   line-height: 1.4;
 }
 
-.introduction ul {
+.introduction ul,
+.awards-section ul {
   margin: 0;
   padding-left: 22px;
 }
 
-.introduction li {
+.introduction li,
+.awards-section li {
   margin: 3px 0;
 }
 
@@ -310,7 +321,8 @@ a:focus {
 
   .profile-column,
   .introduction,
-  .publications-section {
+  .publications-section,
+  .awards-section {
     grid-column: 1;
   }
 
@@ -326,6 +338,10 @@ a:focus {
     grid-row: 3;
   }
 
+  .awards-section {
+    grid-row: 4;
+  }
+
   .profile-photo {
     width: 150px;
     height: 150px;
@@ -336,7 +352,8 @@ a:focus {
   }
 
   .introduction h2,
-  .publications-section h2 {
+  .publications-section h2,
+  .awards-section h2 {
     font-size: 20px;
   }
 }
