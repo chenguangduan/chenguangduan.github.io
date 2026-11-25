@@ -16,7 +16,7 @@ I welcome opportunities for collaboration and discussion!
 ---
 
 <p style="color: #888;" markdown="1">
-I will be awarded an [Alexander von Humboldt Research Fellowship for Postdocs](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship), which I will carry out with two hosts: Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) (RWTH Aachen) and Prof. Dr. [Gabriele Steidl](https://www.tu.berlin/imageanalysis/ueber-uns/team/prof-dr-gabriele-steidl) (TU Berlin).
+I will be awarded a [Humboldt Research Fellowship for Postdocs](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) from Alexander von Humboldt Foundation, which I will carry out with two hosts: Prof. Dr. [Markus Bachmayr](https://www.igpm.rwth-aachen.de/team/bachmayr) (RWTH Aachen) and Prof. Dr. [Gabriele Steidl](https://www.tu.berlin/imageanalysis/ueber-uns/team/prof-dr-gabriele-steidl) (TU Berlin).
 </p>
 
 ## Research interests
@@ -134,4 +134,10 @@ Adv-SSL_Adversarial_Self-Supervised_Representation_Learning_with_Theoretical_Gua
 
 </section>
 
+## Awards and Fellowship
 
+- Humboldt Research Fellowship for Postdocs, Alexander von Humboldt Foundation, Germany, 2027 -- 2029
+- The 18th East Asia Section of SIAM (EASIAM) Student Paper Prize, Second Prize, 2025
+- National Scholarship for Postgraduates, China, 2022
+
+  
