@@ -30,11 +30,9 @@ I will be awarded a [Humboldt Research Fellowship for Postdocs](https://www.humb
 
 <section class="publications-section" markdown="1">
 
-## Publications
-
 <p class="publication-note"><em>Authors are listed alphabetically in all publications. See <a href="https://scholar.google.com/citations?user=RpmGgyMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> for the complete list.</em></p>
 
-### Ongoing work
+## Ongoing Work
 
 <div class="publication">
   <p class="paper-title"><a href="https://arxiv.org/pdf/2610.10278">Neural Sampling with Reweighted Normalizing Flows via the Wasserstein--Fisher--Rao JKO Scheme</a></p>
@@ -78,7 +76,7 @@ I will be awarded a [Humboldt Research Fellowship for Postdocs](https://www.humb
   <p class="paper-links"><a href="https://arxiv.org/abs/2405.05512">arXiv</a> · <a href="docs/Characteristic_Learning_for_Provable_One_Step_Generation.pdf">PDF</a> · <a href="https://github.com/burning489/CharacteristicGenerator">Code</a> · <a href="docs/Characteristic_Learning_for_Provable_One_Step_Generation_slides.pdf">Slides</a></p>
 </div>
 
-### Selected publications
+## Selected Publications
 
 <div class="publication">
   <p class="paper-title"><a href="docs/Nonlinear_Assimilation_via_Score-based_Sequential_Langevin_Sampling.pdf">Nonlinear Assimilation via Score-based Sequential Langevin Sampling</a></p>
