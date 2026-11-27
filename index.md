@@ -139,7 +139,7 @@ Adv-SSL_Adversarial_Self-Supervised_Representation_Learning_with_Theoretical_Gua
 
 - Humboldt Research Fellowship for Postdocs, Alexander von Humboldt Foundation, Germany, 2027 -- 2029
 - The 18th East Asia Section of SIAM (EASIAM) Student Paper Prize, Second Prize, 2025
-- National Scholarship for Postgraduates, China, 2022
+- National Scholarship, Wuhan University, China, 2022
 
 
 </section>
